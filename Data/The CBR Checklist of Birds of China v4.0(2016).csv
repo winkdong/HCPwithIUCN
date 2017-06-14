@@ -1,0 +1,1459 @@
+ID,CBR_ID,目,ORDER,科,FAMILY,SCI_NAME,中文名,EN_NAME,IUCN_CLASS
+0001,0062#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tetrastes bonasia,花尾榛鸡,Hazel Grouse,LC
+0002,0063#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tetrastes sewerzowi,斑尾榛鸡,Chinese Grouse,NT
+0003,0056#,鸡形目,GALLIFORMES,雉科,Phasianidae,Falcipennis falcipennis,镰翅鸡,Siberian Grouse,NT
+0004,0060#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tetrao urogallus,西方松鸡,Western Capercaillie,LC
+0005,0061#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tetrao parvirostris,黑嘴松鸡,Black-billed Capercaillie,LC
+0006,0059#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lyrurus tetrix,黑琴鸡,Black Grouse,LC
+0007,0058#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lagopus muta,岩雷鸟,Rock Ptarmigan,LC
+0008,0057#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lagopus lagopus,柳雷鸟,Willow Ptarmigan,LC
+0009,0001#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lerwa lerwa,雪鹑,Snow Partridge,LC
+0010,0005#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tetraophasis obscurus,雉鹑,Chestnut-throated Monal Partridge,LC
+0011,0006#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tetraophasis szechenyii,黄喉雉鹑,Buff-throated Monal Partridge,LC
+0012,0004#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tetraogallus himalayensis,暗腹雪鸡,Himalayan Snowcock,LC
+0013,0002#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tetraogallus tibetanus,藏雪鸡,Tibetan Snowcock,LC
+0014,0003#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tetraogallus altaicus,阿尔泰雪鸡,Altai Snowcock,LC
+0015,0007#,鸡形目,GALLIFORMES,雉科,Phasianidae,Alectoris chukar,石鸡,Chukar Partridge,LC
+0016,0008#,鸡形目,GALLIFORMES,雉科,Phasianidae,Alectoris magna,大石鸡,Rusty-necklaced Partridge,LC
+0017,0009#,鸡形目,GALLIFORMES,雉科,Phasianidae,Francolinus pintadeanus,中华鹧鸪,Chinese Francolin,LC
+0018,0010#,鸡形目,GALLIFORMES,雉科,Phasianidae,Perdix perdix,灰山鹑,Grey Partridge,LC
+0019,0011#,鸡形目,GALLIFORMES,雉科,Phasianidae,Perdix dauurica,斑翅山鹑,Daurian Partridge,LC
+0020,0012#,鸡形目,GALLIFORMES,雉科,Phasianidae,Perdix hodgsoniae,高原山鹑,Tibetan Partridge,LC
+0021,0013#,鸡形目,GALLIFORMES,雉科,Phasianidae,Coturnix coturnix,西鹌鹑,Common Quail,LC
+0022,0014#,鸡形目,GALLIFORMES,雉科,Phasianidae,Coturnix japonica,鹌鹑,Japanese Quail,NT
+0023,0015#,鸡形目,GALLIFORMES,雉科,Phasianidae,Excalfactoria chinensis,蓝胸鹑,King Quail,LC
+0024,0016#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila torqueola,环颈山鹧鸪,Common Hill Partridge,LC
+0025,0017#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila rufogularis,红喉山鹧鸪,Rufous-throated Partridge,LC
+0026,0018#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila atrogularis,白颊山鹧鸪,White-cheeked Partridge,NT
+0027,0019#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila crudigularis,台湾山鹧鸪,Taiwan Partridge,LC
+0028,0020#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila mandellii,红胸山鹧鸪,Chestnut-breasted Partridge,VU
+0029,0021#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila brunneopectus,褐胸山鹧鸪,Bar-backed Partridge,LC
+0030,0022#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila rufipectus,四川山鹧鸪,Sichuan Partridge,EN
+0031,0023#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila gingica,白眉山鹧鸪,White-necklaced Partridge,NT
+0032,0024#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila ardens,海南山鹧鸪,Hainan Partridge,VU
+0033,0025#,鸡形目,GALLIFORMES,雉科,Phasianidae,Arborophila chloropus,绿脚山鹧鸪,Green-legged Partridge,LC
+0034,0026#,鸡形目,GALLIFORMES,雉科,Phasianidae,Bambusicola fytchii,棕胸竹鸡,Mountain Bamboo Partridge,LC
+0035,0027#,鸡形目,GALLIFORMES,雉科,Phasianidae,Bambusicola thoracicus,灰胸竹鸡,Chinese Bamboo Partridge,LC
+0036,     ,鸡形目,GALLIFORMES,雉科,Phasianidae,Bambusicola sonorivox,台湾竹鸡,Taiwan Bamboo Partridge,LC
+0037,0028#,鸡形目,GALLIFORMES,雉科,Phasianidae,Ithaginis cruentus,血雉,Blood Pheasant,LC
+0038,0029#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tragopan melanocephalus,黑头角雉,Western Tragopan,VU
+0039,0030#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tragopan satyra,红胸角雉,Satyr Tragopan,NT
+0040,0031#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tragopan blythii,灰腹角雉,Blyth's Tragopan,VU
+0041,0032#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tragopan temminckii,红腹角雉,Temminck's Tragopan,LC
+0042,0033#,鸡形目,GALLIFORMES,雉科,Phasianidae,Tragopan caboti,黄腹角雉,Cabot's Tragopan,VU
+0043,0034#,鸡形目,GALLIFORMES,雉科,Phasianidae,Pucrasia macrolopha,勺鸡,Koklass Pheasant,LC
+0044,0035#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lophophorus impejanus,棕尾虹雉,Himalayan Monal,LC
+0045,0036#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lophophorus sclateri,白尾梢虹雉,Sclater's Monal,VU
+0046,0037#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lophophorus lhuysii,绿尾虹雉,Chinese Monal,VU
+0047,0038#,鸡形目,GALLIFORMES,雉科,Phasianidae,Gallus gallus,红原鸡,Red Junglefowl,LC
+0048,0039#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lophura leucomelanos,黑鹇,Kalij Pheasant,LC
+0049,0040#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lophura nycthemera,白鹇,Silver Pheasant,LC
+0050,0041#,鸡形目,GALLIFORMES,雉科,Phasianidae,Lophura swinhoii,蓝腹鹇,Swinhoe's Pheasant,NT
+0051,0043#,鸡形目,GALLIFORMES,雉科,Phasianidae,Crossoptilon crossoptilon,白马鸡,White Eared Pheasant,NT
+0052,0042#,鸡形目,GALLIFORMES,雉科,Phasianidae,Crossoptilon harmani,藏马鸡,Tibetan Eared Pheasant,NT
+0053,0044#,鸡形目,GALLIFORMES,雉科,Phasianidae,Crossoptilon mantchuricum,褐马鸡,Brown Eared Pheasant,VU
+0054,0045#,鸡形目,GALLIFORMES,雉科,Phasianidae,Crossoptilon auritum,蓝马鸡,Blue Eared Pheasant,LC
+0055,0046#,鸡形目,GALLIFORMES,雉科,Phasianidae,Syrmaticus ellioti,白颈长尾雉,Elliot's Pheasant,NT
+0056,0047#,鸡形目,GALLIFORMES,雉科,Phasianidae,Syrmaticus humiae,黑颈长尾雉,Mrs. Hume's Pheasant,NT
+0057,0048#,鸡形目,GALLIFORMES,雉科,Phasianidae,Syrmaticus mikado,黑长尾雉,Mikado Pheasant,NT
+0058,0049#,鸡形目,GALLIFORMES,雉科,Phasianidae,Syrmaticus reevesii,白冠长尾雉,Reeves's Pheasant,VU
+0059,0050#,鸡形目,GALLIFORMES,雉科,Phasianidae,Phasianus colchicus,雉鸡,Common Pheasant,LC
+0060,0051#,鸡形目,GALLIFORMES,雉科,Phasianidae,Chrysolophus pictus,红腹锦鸡,Golden Pheasant,LC
+0061,0052#,鸡形目,GALLIFORMES,雉科,Phasianidae,Chrysolophus amherstiae,白腹锦鸡,Lady Amherst's Pheasant,LC
+0062,0053#,鸡形目,GALLIFORMES,雉科,Phasianidae,Polyplectron bicalcaratum,灰孔雀雉,Grey Peacock Pheasant,LC
+0063,0054#,鸡形目,GALLIFORMES,雉科,Phasianidae,Polyplectron katsumatae,海南孔雀雉,Hainan Peacock Pheasant,EN
+0064,0055#,鸡形目,GALLIFORMES,雉科,Phasianidae,Pavo muticus,绿孔雀,Green Peafowl,EN
+0065,0064#,雁形目,ANSERIFORMES,鸭科,Anatidae,Dendrocygna javanica,栗树鸭,Lesser Whistling Duck,LC
+0066,0069#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anser cygnoides,鸿雁,Swan Goose,VU
+0067,0070#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anser fabalis,豆雁,Taiga Bean Goose,LC
+0068,     ,雁形目,ANSERIFORMES,鸭科,Anatidae,Anser serrirostris,短嘴豆雁,Tundra Bean Goose,
+0069,0073#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anser anser,灰雁,Greylag Goose,LC
+0070,0071#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anser albifrons,白额雁,Greater White-fronted Goose,LC
+0071,0072#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anser erythropus,小白额雁,Lesser White-fronted Goose,VU
+0072,0074#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anser indicus,斑头雁,Bar-headed Goose,LC
+0073,0075#,雁形目,ANSERIFORMES,鸭科,Anatidae,Chen caerulescens,雪雁,Snow Goose,LC
+0074,     ,雁形目,ANSERIFORMES,鸭科,Anatidae,Branta canadensis,加拿大黑雁,Canada Goose,LC
+0075,0076#,雁形目,ANSERIFORMES,鸭科,Anatidae,Branta hutchinsii,小美洲黑雁,Cackling Goose,LC
+0076,0077#,雁形目,ANSERIFORMES,鸭科,Anatidae,Branta bernicla,黑雁,Brant Goose,LC
+0077,     ,雁形目,ANSERIFORMES,鸭科,Anatidae,Branta leucopsis,白颊黑雁,Barnacle Goose,LC
+0078,0078#,雁形目,ANSERIFORMES,鸭科,Anatidae,Branta ruficollis,红胸黑雁,Red-breasted Goose,VU
+0079,0066#,雁形目,ANSERIFORMES,鸭科,Anatidae,Cygnus olor,疣鼻天鹅,Mute Swan,LC
+0080,0068#,雁形目,ANSERIFORMES,鸭科,Anatidae,Cygnus columbianus,小天鹅,Tundra Swan,LC
+0081,0067#,雁形目,ANSERIFORMES,鸭科,Anatidae,Cygnus cygnus,大天鹅,Whooper Swan,LC
+0082,0082#,雁形目,ANSERIFORMES,鸭科,Anatidae,Sarkidiornis melanotos,瘤鸭,Knob-billed Duck,LC
+0083,0081#,雁形目,ANSERIFORMES,鸭科,Anatidae,Tadorna tadorna,翘鼻麻鸭,Common Shelduck,LC
+0084,0079#,雁形目,ANSERIFORMES,鸭科,Anatidae,Tadorna ferruginea,赤麻鸭,Ruddy Shelduck,LC
+0085,0080#,雁形目,ANSERIFORMES,鸭科,Anatidae,Tadorna cristata,冠麻鸭,Crested Shelduck,CR
+0086,0084#,雁形目,ANSERIFORMES,鸭科,Anatidae,Aix galericulata,鸳鸯,Mandarin Duck,LC
+0087,0083#,雁形目,ANSERIFORMES,鸭科,Anatidae,Nettapus coromandelianus,棉凫,Cotton Pygmy Goose,LC
+0088,0085#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas strepera,赤膀鸭,Gadwall,LC
+0089,0086#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas falcata,罗纹鸭,Falcated Duck,NT
+0090,0087#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas penelope,赤颈鸭,Eurasian Wigeon,LC
+0091,0088#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas americana,绿眉鸭,American Wigeon,LC
+0092,0089#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas platyrhynchos,绿头鸭,Mallard,LC
+0093,0091#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas luzonica,棕颈鸭,Philippine Duck,VU
+0094,     ,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas poecilorhyncha,印缅斑嘴鸭,Indian Spot-billed Duck,LC
+0095,0090#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas zonorhyncha,斑嘴鸭,Chinese Spot-billed Duck,LC
+0096,0092#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas clypeata,琵嘴鸭,Northern Shoveler,LC
+0097,0093#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas acuta,针尾鸭,Northern Pintail,LC
+0098,0094#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas querquedula,白眉鸭,Garganey,LC
+0099,0095#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas formosa,花脸鸭,Baikal Teal,LC
+0100,0096#,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas crecca,绿翅鸭,Eurasian Teal,LC
+0101,     ,雁形目,ANSERIFORMES,鸭科,Anatidae,Anas carolinensis,美洲绿翅鸭,Green-winged Teal,
+0102,0097#,雁形目,ANSERIFORMES,鸭科,Anatidae,Marmaronetta angustirostris,云石斑鸭,Marbled Teal,VU
+0103,0098#,雁形目,ANSERIFORMES,鸭科,Anatidae,Netta rufina,赤嘴潜鸭,Red-crested Pochard,LC
+0104,0100#,雁形目,ANSERIFORMES,鸭科,Anatidae,Aythya valisineria,帆背潜鸭,Canvasback,LC
+0105,0099#,雁形目,ANSERIFORMES,鸭科,Anatidae,Aythya ferina,红头潜鸭,Common Pochard,VU
+0106,0102#,雁形目,ANSERIFORMES,鸭科,Anatidae,Aythya baeri,青头潜鸭,Baer's Pochard,CR
+0107,0101#,雁形目,ANSERIFORMES,鸭科,Anatidae,Aythya nyroca,白眼潜鸭,Ferruginous Pochard,NT
+0108,0103#,雁形目,ANSERIFORMES,鸭科,Anatidae,Aythya fuligula,凤头潜鸭,Tufted Duck,LC
+0109,0104#,雁形目,ANSERIFORMES,鸭科,Anatidae,Aythya marila,斑背潜鸭,Greater Scaup,LC
+0110,0105#,雁形目,ANSERIFORMES,鸭科,Anatidae,Polysticta stelleri,小绒鸭,Steller's Eider,VU
+0111,0106#,雁形目,ANSERIFORMES,鸭科,Anatidae,Histrionicus histrionicus,丑鸭,Harlequin Duck,LC
+0112,0109#,雁形目,ANSERIFORMES,鸭科,Anatidae,Melanitta deglandi,斑脸海番鸭,White-winged Scoter,LC
+0113,0108#,雁形目,ANSERIFORMES,鸭科,Anatidae,Melanitta americana,黑海番鸭,Black Scoter,NT
+0114,0107#,雁形目,ANSERIFORMES,鸭科,Anatidae,Clangula hyemalis,长尾鸭,Long-tailed Duck,VU
+0115,0110#,雁形目,ANSERIFORMES,鸭科,Anatidae,Bucephala clangula,鹊鸭,Common Goldeneye,LC
+0116,0111#,雁形目,ANSERIFORMES,鸭科,Anatidae,Mergellus albellus,白秋沙鸭,Smew,LC
+0117,0114#,雁形目,ANSERIFORMES,鸭科,Anatidae,Mergus merganser,普通秋沙鸭,Common Merganser,LC
+0118,0112#,雁形目,ANSERIFORMES,鸭科,Anatidae,Mergus serrator,红胸秋沙鸭,Red-breasted Merganser,LC
+0119,0113#,雁形目,ANSERIFORMES,鸭科,Anatidae,Mergus squamatus,中华秋沙鸭,Scaly-sided Merganser,EN
+0120,0065#,雁形目,ANSERIFORMES,鸭科,Anatidae,Oxyura leucocephala,白头硬尾鸭,White-headed Duck,EN
+0121,0575#,潜鸟目,GAVIIFORMES,潜鸟科,Gaviidae,Gavia stellata,红喉潜鸟,Red-throated Loon,LC
+0122,0576#,潜鸟目,GAVIIFORMES,潜鸟科,Gaviidae,Gavia arctica,黑喉潜鸟,Black-throated Loon,LC
+0123,0577#,潜鸟目,GAVIIFORMES,潜鸟科,Gaviidae,Gavia pacifica,太平洋潜鸟,Pacific Loon,LC
+0124,0579#,潜鸟目,GAVIIFORMES,潜鸟科,Gaviidae,Gavia adamsii,黄嘴潜鸟,Yellow-billed Loon,NT
+0125,0591#,鹱形目,PROCELLARIIFORMES,信天翁科,Diomedeidae,Phoebastria immutabilis,黑背信天翁,Laysan Albatross,NT
+0126,0590#,鹱形目,PROCELLARIIFORMES,信天翁科,Diomedeidae,Phoebastria nigripes,黑脚信天翁,Black-footed Albatross,NT
+0127,0589#,鹱形目,PROCELLARIIFORMES,信天翁科,Diomedeidae,Phoebastria albatrus,短尾信天翁,Short-tailed Albatross,VU
+0128,0580#,鹱形目,PROCELLARIIFORMES,鹱科,Procellariidae,Fulmarus glacialis,暴雪鹱,Northern Fulmar,LC
+0129,0582#,鹱形目,PROCELLARIIFORMES,鹱科,Procellariidae,Pterodroma hypoleuca,白额圆尾鹱,Bonin Petrel,LC
+0130,0581#,鹱形目,PROCELLARIIFORMES,鹱科,Procellariidae,Pseudobulweria rostrata,钩嘴圆尾鹱,Tahiti Petrel,NT
+0131,0584#,鹱形目,PROCELLARIIFORMES,鹱科,Procellariidae,Calonectris leucomelas,白额鹱,Streaked Shearwater,NT
+0132,0585#,鹱形目,PROCELLARIIFORMES,鹱科,Procellariidae,Puffinus pacificus,楔尾鹱,Wedge-tailed Shearwater,LC
+0133,0587#,鹱形目,PROCELLARIIFORMES,鹱科,Procellariidae,Puffinus griseus,灰鹱,Sooty Shearwater,NT
+0134,0588#,鹱形目,PROCELLARIIFORMES,鹱科,Procellariidae,Puffinus tenuirostris,短尾鹱,Short-tailed Shearwater,LC
+0135,0586#,鹱形目,PROCELLARIIFORMES,鹱科,Procellariidae,Puffinus carneipes,淡足鹱,Flesh-footed Shearwater,LC
+0136,0583#,鹱形目,PROCELLARIIFORMES,鹱科,Procellariidae,Bulweria bulwerii,褐燕鹱,Bulwer's Petrel,LC
+0137,0594#,鹱形目,PROCELLARIIFORMES,海燕科,Hydrobatidae,Oceanodroma monorhis,黑叉尾海燕,Swinhoe's Storm Petrel,NT
+0138,0593#,鹱形目,PROCELLARIIFORMES,海燕科,Hydrobatidae,Oceanodroma leucorhoa,白腰叉尾海燕,Leach's Storm Petrel,LC
+0139,     ,鹱形目,PROCELLARIIFORMES,海燕科,Hydrobatidae,Oceanodroma tristrami,褐翅叉尾海燕,Tristram's Storm Petrel,NT
+0140,0595#,鹱形目,PROCELLARIIFORMES,海燕科,Hydrobatidae,Oceanodroma matsudairae,日本叉尾海燕,Matsudaira's Storm Petrel,VU
+0141,0518#,䴙䴘目,PODICIPEDIFORMES,䴙䴘科,Podicipedidae,Tachybaptus ruficollis,小䴙䴘,Little Grebe,LC
+0142,0519#,䴙䴘目,PODICIPEDIFORMES,䴙䴘科,Podicipedidae,Podiceps grisegena,赤颈䴙䴘,Red-necked Grebe,LC
+0143,0520#,䴙䴘目,PODICIPEDIFORMES,䴙䴘科,Podicipedidae,Podiceps cristatus,凤头䴙䴘,Great Crested Grebe,LC
+0144,0521#,䴙䴘目,PODICIPEDIFORMES,䴙䴘科,Podicipedidae,Podiceps auritus,角䴙䴘,Horned Grebe,VU
+0145,0522#,䴙䴘目,PODICIPEDIFORMES,䴙䴘科,Podicipedidae,Podiceps nigricollis,黑颈䴙䴘,Black-necked Grebe,LC
+0146,0557#,红鹳目,PHOENICOPTERIFORMES,红鹳科,Phoenicopteridae,Phoenicopterus roseus,大红鹳,Greater Flamingo,LC
+0147,0523#,鹲形目,PHAETHONTIFORMES,鹲科,Phaethontidae,Phaethon aethereus,红嘴鹲,Red-billed Tropicbird,LC
+0148,0524#,鹲形目,PHAETHONTIFORMES,鹲科,Phaethontidae,Phaethon rubricauda,红尾鹲,Red-tailed Tropicbird,LC
+0149,0525#,鹲形目,PHAETHONTIFORMES,鹲科,Phaethontidae,Phaethon lepturus,白尾鹲,White-tailed Tropicbird,LC
+0150,0567#,鹳形目,CICONIIFORMES,鹳科,Ciconiidae,Mycteria leucocephala,彩鹳,Painted Stork,NT
+0151,     ,鹳形目,CICONIIFORMES,鹳科,Ciconiidae,Anastomus oscitans,钳嘴鹳,Asian Openbill,LC
+0152,0568#,鹳形目,CICONIIFORMES,鹳科,Ciconiidae,Ciconia nigra,黑鹳,Black Stork,LC
+0153,     ,鹳形目,CICONIIFORMES,鹳科,Ciconiidae,Ciconia episcopus,白颈鹳,Woolly-necked Stork,VU
+0154,0569#,鹳形目,CICONIIFORMES,鹳科,Ciconiidae,Ciconia ciconia,白鹳,White Stork,LC
+0155,0570#,鹳形目,CICONIIFORMES,鹳科,Ciconiidae,Ciconia boyciana,东方白鹳,Oriental Stork,EN
+0156,0571#,鹳形目,CICONIIFORMES,鹳科,Ciconiidae,Leptoptilos javanicus,秃鹳,Lesser Adjutant,VU
+0157,0559#,鹈形目,PELECANIFORMES,鹮科,Threskiornithidae,Threskiornis melanocephalus,黑头白鹮,Black-headed Ibis,NT
+0158,0560#,鹈形目,PELECANIFORMES,鹮科,Threskiornithidae,Pseudibis davisoni,白肩黑鹮,White-shouldered Ibis,CR
+0159,0561#,鹈形目,PELECANIFORMES,鹮科,Threskiornithidae,Nipponia nippon,朱鹮,Crested Ibis,EN
+0160,0558#,鹈形目,PELECANIFORMES,鹮科,Threskiornithidae,Plegadis falcinellus,彩鹮,Glossy Ibis,LC
+0161,0562#,鹈形目,PELECANIFORMES,鹮科,Threskiornithidae,Platalea leucorodia,白琵鹭,Eurasian Spoonbill,LC
+0162,0563#,鹈形目,PELECANIFORMES,鹮科,Threskiornithidae,Platalea minor,黑脸琵鹭,Black-faced Spoonbill,EN
+0163,0556#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Botaurus stellaris,大麻鳽,Great Bittern,LC
+0164,0551#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ixobrychus minutus,小苇鳽,Little Bittern,LC
+0165,0552#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ixobrychus sinensis,黄苇鳽,Yellow Bittern,LC
+0166,0553#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ixobrychus eurhythmus,紫背苇鳽,Von Schrenck's Bittern,LC
+0167,0554#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ixobrychus cinnamomeus,栗苇鳽,Cinnamon Bittern,LC
+0168,0555#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Dupetor flavicollis,黑鳽,Black Bittern,LC
+0169,0548#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Gorsachius magnificus,海南鳽,White-eared Night Heron,EN
+0170,0549#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Gorsachius goisagi,栗鳽,Japanese Night Heron,EN
+0171,0550#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Gorsachius melanolophus,黑冠鳽,Malayan Night Heron,LC
+0172,0547#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Nycticorax nycticorax,夜鹭,Black-crowned Night Heron,LC
+0173,     ,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Nycticorax caledonicus,棕夜鹭,Nankeen Night Heron,LC
+0174,0546#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Butorides striata,绿鹭,Striated Heron,LC
+0175,     ,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ardeola grayii,印度池鹭,Indian Pond Heron,LC
+0176,0545#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ardeola bacchus,池鹭,Chinese Pond Heron,LC
+0177,     ,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ardeola speciosa,爪哇池鹭,Javan Pond Heron,LC
+0178,0544#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Bubulcus coromandus,牛背鹭,Eastern Cattle Egret,
+0179,0539#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ardea cinerea,苍鹭,Grey Heron,LC
+0180,0540#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ardea insignis,白腹鹭,White-bellied Heron,CR
+0181,0541#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ardea purpurea,草鹭,Purple Heron,LC
+0182,0542#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Ardea alba,大白鹭,Great Egret,LC
+0183,0543#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Egretta intermedia,中白鹭,Intermediate Egret,LC
+0184,0538#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Egretta picata,斑鹭,Pied Heron,LC
+0185,     ,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Egretta novaehollandiae,白脸鹭,White-faced Heron,LC
+0186,0535#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Egretta garzetta,白鹭,Little Egret,LC
+0187,0537#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Egretta sacra,岩鹭,Pacific Reef Heron,LC
+0188,0536#,鹈形目,PELECANIFORMES,鹭科,Ardeidae,Egretta eulophotes,黄嘴白鹭,Chinese Egret,VU
+0189,0564#,鹈形目,PELECANIFORMES,鹈鹕科,Pelecanidae,Pelecanus onocrotalus,白鹈鹕,Great White Pelican,LC
+0190,0566#,鹈形目,PELECANIFORMES,鹈鹕科,Pelecanidae,Pelecanus philippensis,斑嘴鹈鹕,Spot-billed Pelican,NT
+0191,0565#,鹈形目,PELECANIFORMES,鹈鹕科,Pelecanidae,Pelecanus crispus,卷羽鹈鹕,Dalmatian Pelican,VU
+0192,0574#,鲣鸟目,SULIFORMES,军舰鸟科,Fregatidae,Fregata andrewsi,白腹军舰鸟,Christmas Island Frigatebird,CR
+0193,0572#,鲣鸟目,SULIFORMES,军舰鸟科,Fregatidae,Fregata minor,大军舰鸟,Great Frigatebird,LC
+0194,0573#,鲣鸟目,SULIFORMES,军舰鸟科,Fregatidae,Fregata ariel,白斑军舰鸟,Lesser Frigatebird,LC
+0195,0526#,鲣鸟目,SULIFORMES,鲣鸟科,Sulidae,Sula dactylatra,蓝脸鲣鸟,Masked Booby,LC
+0196,0527#,鲣鸟目,SULIFORMES,鲣鸟科,Sulidae,Sula sula,红脚鲣鸟,Red-footed Booby,LC
+0197,0528#,鲣鸟目,SULIFORMES,鲣鸟科,Sulidae,Sula leucogaster,褐鲣鸟,Brown Booby,LC
+0198,0530#,鲣鸟目,SULIFORMES,鸬鹚科,Phalacrocoracidae,Microcarbo niger,黑颈鸬鹚,Little Cormorant,LC
+0199,0534#,鲣鸟目,SULIFORMES,鸬鹚科,Phalacrocoracidae,Phalacrocorax pelagicus,海鸬鹚,Pelagic Cormorant,LC
+0200,0533#,鲣鸟目,SULIFORMES,鸬鹚科,Phalacrocoracidae,Phalacrocorax urile,红脸鸬鹚,Red-faced Cormorant,LC
+0201,0531#,鲣鸟目,SULIFORMES,鸬鹚科,Phalacrocoracidae,Phalacrocorax carbo,普通鸬鹚,Great Cormorant,LC
+0202,0532#,鲣鸟目,SULIFORMES,鸬鹚科,Phalacrocoracidae,Phalacrocorax capillatus,暗绿背鸬鹚,Japanese Cormorant,LC
+0203,0455#,鹰形目,ACCIPITRIFORMES,鹗科,Pandionidae,Pandion haliaetus,鹗,Western Osprey,LC
+0204,0459#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Elanus caeruleus,黑翅鸢,Black-winged Kite,LC
+0205,0468#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Gypaetus barbatus,胡兀鹫,Lammergeier,NT
+0206,     ,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Neophron percnopterus,白兀鹫,Egyptian Vulture,EN
+0207,     ,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Pernis apivorus,鹃头蜂鹰,European Honey Buzzard,LC
+0208,0458#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Pernis ptilorhynchus,凤头蜂鹰,Crested Honey-buzzard,LC
+0209,0456#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Aviceda jerdoni,褐冠鹃隼,Jerdon's Baza,LC
+0210,0457#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Aviceda leuphotes,黑冠鹃隼,Black Baza,LC
+0211,0469#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Gyps bengalensis,白背兀鹫,White-rumped Vulture,CR
+0212,0470#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Gyps himalayensis,高山兀鹫,Himalayan Vulture,NT
+0213,0473#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Sarcogyps calvus,黑兀鹫,Red-headed Vulture,CR
+0214,0472#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Aegypius monachus,秃鹫,Cinereous Vulture,NT
+0215,0475#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Spilornis cheela,蛇雕,Crested Serpent Eagle,LC
+0216,0474#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Circaetus gallicus,短趾雕,Short-toed Snake Eagle,LC
+0217,     ,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Nisaetus cirrhatus,凤头鹰雕,Changeable Hawk-Eagle,LC
+0218,0504#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Nisaetus nipalensis,鹰雕,Mountain Hawk-Eagle,LC
+0219,0503#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Lophotriorchis kienerii,棕腹隼雕,Rufous-bellied Hawk-Eagle,LC
+0220,0496#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Ictinaetus malaiensis,林雕,Black Eagle,LC
+0221,0497#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Clanga clanga,乌雕,Greater Spotted Eagle,VU
+0222,0502#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Hieraaetus pennatus,靴隼雕,Booted Eagle,LC
+0223,0498#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Aquila nipalensis,草原雕,Steppe Eagle,EN
+0224,0499#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Aquila heliaca,白肩雕,Eastern Imperial Eagle,VU
+0225,0500#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Aquila chrysaetos,金雕,Golden Eagle,LC
+0226,0501#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Aquila fasciata,白腹隼雕,Bonelli's Eagle,LC
+0227,0482#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Accipiter trivirgatus,凤头鹰,Crested Goshawk,LC
+0228,0483#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Accipiter badius,褐耳鹰,Shikra,LC
+0229,0484#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Accipiter soloensis,赤腹鹰,Chinese Sparrowhawk,LC
+0230,0485#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Accipiter gularis,日本松雀鹰,Japanese Sparrowhawk,LC
+0231,0486#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Accipiter virgatus,松雀鹰,Besra,LC
+0232,0487#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Accipiter nisus,雀鹰,Eurasian Sparrowhawk,LC
+0233,0488#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Accipiter gentilis,苍鹰,Northern Goshawk,LC
+0234,0476#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Circus aeruginosus,白头鹞,Western Marsh Harrier,LC
+0235,0477#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Circus spilonotus,白腹鹞,Eastern Marsh Harrier,LC
+0236,0478#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Circus cyaneus,白尾鹞,Hen Harrier,LC
+0237,0479#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Circus macrourus,草原鹞,Pallid Harrier,NT
+0238,0480#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Circus melanoleucos,鹊鹞,Pied Harrier,LC
+0239,0481#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Circus pygargus,乌灰鹞,Montagu's Harrier,LC
+0240,460&4,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,1 Milvus migrans,黑鸢,Black Kite,LC
+0241,0462#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Haliastur indus,栗鸢,Brahminy Kite,LC
+0242,0463#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Haliaeetus leucogaster,白腹海雕,White-bellied Sea Eagle,LC
+0243,0464#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Haliaeetus leucoryphus,玉带海雕,Pallas's Fish Eagle,VU
+0244,0465#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Haliaeetus albicilla,白尾海雕,White-tailed Sea Eagle,LC
+0245,0466#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Haliaeetus pelagicus,虎头海雕,Steller's Sea Eagle,VU
+0246,0467#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Haliaeetus humilis,渔雕,Lesser Fish Eagle,NT
+0247,0489#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Butastur teesa,白眼鵟鹰,White-eyed Buzzard,LC
+0248,0490#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Butastur liventer,棕翅鵟鹰,Rufous-winged Buzzard,LC
+0249,0491#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Butastur indicus,灰脸鵟鹰,Grey-faced Buzzard,LC
+0250,0495#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Buteo lagopus,毛脚鵟,Rough-legged Buzzard,LC
+0251,0494#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Buteo hemilasius,大鵟,Upland Buzzard,LC
+0252,     ,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Buteo japonicus,普通鵟,Eastern Buzzard,LC
+0253,     ,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Buteo burmanicus,喜山鵟,Himalayan Buzzard,LC
+0254,0493#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Buteo rufinus,棕尾鵟,Long-legged Buzzard,LC
+0255,0492#,鹰形目,ACCIPITRIFORMES,鹰科,Accipitridae,Buteo buteo,欧亚鵟,Common Buzzard,LC
+0256,0505#,隼形目,FALCONIFORMES,隼科,Falconidae,Microhierax caerulescens,红腿小隼,Collared Falconet,LC
+0257,0506#,隼形目,FALCONIFORMES,隼科,Falconidae,Microhierax melanoleucos,白腿小隼,Pied Falconet,LC
+0258,0507#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco naumanni,黄爪隼,Lesser Kestrel,LC
+0259,0508#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco tinnunculus,红隼,Common Kestrel,LC
+0260,0509#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco vespertinus,西红脚隼,Red-footed Falcon,NT
+0261,0510#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco amurensis,红脚隼,Amur Falcon,LC
+0262,0511#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco columbarius,灰背隼,Merlin,LC
+0263,0512#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco subbuteo,燕隼,Eurasian Hobby,LC
+0264,0513#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco severus,猛隼,Oriental Hobby,LC
+0265,0514#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco cherrug,猎隼,Saker Falcon,EN
+0266,0515#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco rusticolus,矛隼,Gyrfalcon,LC
+0267,0516#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco peregrinus,游隼,Peregrine Falcon,LC
+0268,0517#,隼形目,FALCONIFORMES,隼科,Falconidae,Falco pelegrinoides,拟游隼,Barbary Falcon,
+0269,0295#,鸨形目,OTIDIFORMES,鸨科,Otididae,Otis tarda,大鸨,Great Bustard,VU
+0270,0296#,鸨形目,OTIDIFORMES,鸨科,Otididae,Chlamydotis macqueenii,波斑鸨,Macqueen's Bustard,VU
+0271,0294#,鸨形目,OTIDIFORMES,鸨科,Otididae,Tetrax tetrax,小鸨,Little Bustard,NT
+0272,0306#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Coturnicops exquisitus,花田鸡,Swinhoe's Rail,VU
+0273,0307#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Rallina fasciata,红腿斑秧鸡,Red-legged Crake,LC
+0274,0308#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Rallina eurizonoides,白喉斑秧鸡,Slaty-legged Crake,LC
+0275,0309#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Gallirallus striatus,蓝胸秧鸡,Slaty-breasted Rail,LC
+0276,0310#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Rallus aquaticus,西方秧鸡,Water Rail,LC
+0277,     ,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Rallus indicus,普通秧鸡,Brown-cheeked Rail,LC
+0278,0311#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Crex crex,长脚秧鸡,Corn Crake,LC
+0279,0312#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Amaurornis akool,红脚苦恶鸟,Brown Crake,LC
+0280,0313#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Amaurornis phoenicurus,白胸苦恶鸟,White-breasted Waterhen,LC
+0281,0314#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Porzana bicolor,棕背田鸡,Black-tailed Crake,LC
+0282,0315#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Porzana parva,姬田鸡,Little Crake,LC
+0283,0316#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Porzana pusilla,小田鸡,Baillon's Crake,LC
+0284,0317#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Porzana porzana,斑胸田鸡,Spotted Crake,LC
+0285,0318#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Porzana fusca,红胸田鸡,Ruddy-breasted Crake,LC
+0286,0319#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Porzana paykullii,斑胁田鸡,Band-bellied Crake,NT
+0287,0320#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Porzana cinerea,白眉田鸡,White-browed Crake,LC
+0288,0321#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Gallicrex cinerea,董鸡,Watercock,LC
+0289,0322#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Porphyrio poliocephalus,紫水鸡,Grey-headed Swamphen,
+0290,     ,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Porphyrio indicus,黑背紫水鸡,Black-backed Swamphen,
+0291,0323#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Gallinula chloropus,黑水鸡,Common Moorhen,LC
+0292,0324#,鹤形目,GRUIFORMES,秧鸡科,Rallidae,Fulica atra,骨顶鸡,Eurasian Coot,LC
+0293,0297#,鹤形目,GRUIFORMES,鹤科,Gruidae,Grus leucogeranus,白鹤,Siberian Crane,CR
+0294,0300#,鹤形目,GRUIFORMES,鹤科,Gruidae,Grus canadensis,沙丘鹤,Sandhill Crane,LC
+0295,0299#,鹤形目,GRUIFORMES,鹤科,Gruidae,Grus vipio,白枕鹤,White-naped Crane,VU
+0296,0298#,鹤形目,GRUIFORMES,鹤科,Gruidae,Grus antigone,赤颈鹤,Sarus Crane,VU
+0297,0301#,鹤形目,GRUIFORMES,鹤科,Gruidae,Grus virgo,蓑羽鹤,Demoiselle Crane,LC
+0298,0305#,鹤形目,GRUIFORMES,鹤科,Gruidae,Grus japonensis,丹顶鹤,Red-crowned Crane,EN
+0299,0302#,鹤形目,GRUIFORMES,鹤科,Gruidae,Grus grus,灰鹤,Common Crane,LC
+0300,0303#,鹤形目,GRUIFORMES,鹤科,Gruidae,Grus monacha,白头鹤,Hooded Crane,VU
+0301,0304#,鹤形目,GRUIFORMES,鹤科,Gruidae,Grus nigricollis,黑颈鹤,Black-necked Crane,VU
+0302,0115#,鸻形目,CHARADRIIFORMES,三趾鹑科,Turnicidae,Turnix sylvaticus,林三趾鹑,Common Buttonquail,LC
+0303,0116#,鸻形目,CHARADRIIFORMES,三趾鹑科,Turnicidae,Turnix tanki,黄脚三趾鹑,Yellow-legged Buttonquail,LC
+0304,0117#,鸻形目,CHARADRIIFORMES,三趾鹑科,Turnicidae,Turnix suscitator,棕三趾鹑,Barred Buttonquail,LC
+0305,0382#,鸻形目,CHARADRIIFORMES,石鸻科,Burhinidae,Burhinus oedicnemus,欧石鸻,Eurasian Thick-knee,LC
+0306,0383#,鸻形目,CHARADRIIFORMES,石鸻科,Burhinidae,Esacus recurvirostris,大石鸻,Great Thick-knee,NT
+0307,0384#,鸻形目,CHARADRIIFORMES,蛎鹬科,Haematopodidae,Haematopus ostralegus,蛎鹬,Eurasian Oystercatcher,NT
+0308,0385#,鸻形目,CHARADRIIFORMES,鹮嘴鹬科,Ibidorhynchidae,Ibidorhyncha struthersii,鹮嘴鹬,Ibisbill,LC
+0309,0386#,鸻形目,CHARADRIIFORMES,反嘴鹬科,Recurvirostridae,Himantopus himantopus,黑翅长脚鹬,Black-winged Stilt,LC
+0310,0387#,鸻形目,CHARADRIIFORMES,反嘴鹬科,Recurvirostridae,Recurvirostra avosetta,反嘴鹬,Pied Avocet,LC
+0311,0400#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Vanellus vanellus,凤头麦鸡,Northern Lapwing,NT
+0312,0401#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Vanellus duvaucelii,距翅麦鸡,River Lapwing,NT
+0313,0402#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Vanellus cinereus,灰头麦鸡,Grey-headed Lapwing,LC
+0314,0403#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Vanellus indicus,肉垂麦鸡,Red-wattled Lapwing,LC
+0315,     ,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Vanellus gregarius,黄颊麦鸡,Sociable Lapwing,CR
+0316,     ,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Vanellus leucurus,白尾麦鸡,White-tailed Lapwing,LC
+0317,     ,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Pluvialis apricaria,欧金鸻,European Golden Plover,LC
+0318,0388#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Pluvialis fulva,金斑鸻,Pacific Golden Plover,LC
+0319,338a#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Pluvialis dominica,美洲金鸻,American Golden Plover,LC
+0320,0389#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Pluvialis squatarola,灰斑鸻,Grey Plover,LC
+0321,0390#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Charadrius hiaticula,剑鸻,Common Ringed Plover,LC
+0322,0391#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Charadrius placidus,长嘴剑鸻,Long-billed Plover,LC
+0323,0392#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Charadrius dubius,金眶鸻,Little Ringed Plover,LC
+0324,0393#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Charadrius alexandrinus,环颈鸻,Kentish Plover,LC
+0325,0395#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Charadrius mongolus,蒙古沙鸻,Lesser Sand Plover,LC
+0326,0396#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Charadrius leschenaultii,铁嘴沙鸻,Greater Sand Plover,LC
+0327,0397#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Charadrius asiaticus,红胸鸻,Caspian Plover,LC
+0328,0398#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Charadrius veredus,东方鸻,Oriental Plover,LC
+0329,0399#,鸻形目,CHARADRIIFORMES,鸻科,Charadriidae,Charadrius morinellus,小嘴鸻,Eurasian Dotterel,LC
+0330,0379#,鸻形目,CHARADRIIFORMES,彩鹬科,Rostratulidae,Rostratula benghalensis,彩鹬,Greater Painted Snipe,LC
+0331,0380#,鸻形目,CHARADRIIFORMES,水雉科,Jacanidae,Hydrophasianus chirurgus,水雉,Pheasant-tailed Jacana,LC
+0332,0381#,鸻形目,CHARADRIIFORMES,水雉科,Jacanidae,Metopidius indicus,铜翅水雉,Bronze-winged Jacana,LC
+0333,0328#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Scolopax rusticola,丘鹬,Eurasian Woodcock,LC
+0334,0335#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Lymnocryptes minimus,姬鹬,Jack Snipe,LC
+0335,0329#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Gallinago solitaria,孤沙锥,Solitary Snipe,LC
+0336,0330#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Gallinago hardwickii,澳南沙锥,Latham's Snipe,LC
+0337,0331#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Gallinago nemoricola,林沙锥,Wood Snipe,VU
+0338,0332#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Gallinago stenura,针尾沙锥,Pin-tailed Snipe,LC
+0339,0333#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Gallinago megala,大沙锥,Swinhoe's Snipe,LC
+0340,0334#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Gallinago gallinago,扇尾沙锥,Common Snipe,LC
+0341,0355#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Limnodromus scolopaceus,长嘴鹬,Long-billed Dowitcher,LC
+0342,0356#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Limnodromus semipalmatus,半蹼鹬,Asian Dowitcher,NT
+0343,0336#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Limosa limosa,黑尾塍鹬,Black-tailed Godwit,NT
+0344,0337#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Limosa lapponica,斑尾塍鹬,Bar-tailed Godwit,NT
+0345,0338#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Numenius minutus,小杓鹬,Little Curlew,LC
+0346,0339#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Numenius phaeopus,中杓鹬,Whimbrel,LC
+0347,0340#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Numenius arquata,白腰杓鹬,Eurasian Curlew,NT
+0348,0341#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Numenius madagascariensis,大杓鹬,Eastern Curlew,EN
+0349,0342#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa erythropus,鹤鹬,Spotted Redshank,LC
+0350,0343#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa totanus,红脚鹬,Common Redshank,LC
+0351,0344#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa stagnatilis,泽鹬,Marsh Sandpiper,LC
+0352,0345#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa nebularia,青脚鹬,Common Greenshank,LC
+0353,0346#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa guttifer,小青脚鹬,Nordmann's Greenshank,EN
+0354,0347#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa flavipes,小黄脚鹬,Lesser Yellowlegs,LC
+0355,0348#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa ochropus,白腰草鹬,Green Sandpiper,LC
+0356,0349#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa glareola,林鹬,Wood Sandpiper,LC
+0357,0352#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa brevipes,灰尾漂鹬,Grey-tailed Tattler,NT
+0358,0353#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tringa incana,漂鹬,Wandering Tattler,LC
+0359,0350#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Xenus cinereus,翘嘴鹬,Terek Sandpiper,LC
+0360,0351#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Actitis hypoleucos,矶鹬,Common Sandpiper,LC
+0361,0354#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Arenaria interpres,翻石鹬,Ruddy Turnstone,LC
+0362,0357#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris tenuirostris,大滨鹬,Great Knot,EN
+0363,0358#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris canutus,红腹滨鹬,Red Knot,NT
+0364,0359#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris alba,三趾滨鹬,Sanderling,LC
+0365,0360#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris mauri,西方滨鹬,Western Sandpiper,LC
+0366,0363#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris ruficollis,红颈滨鹬,Red-necked Stint,NT
+0367,0362#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris minuta,小滨鹬,Little Stint,LC
+0368,0364#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris temminckii,青脚滨鹬,Temminck's Stint,LC
+0369,0365#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris subminuta,长趾滨鹬,Long-toed Stint,LC
+0370,0366#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris minutilla,姬滨鹬,Least Sandpiper,LC
+0371,366a ,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,alidris fuscicollis,白腰滨鹬,White-rumped Sandpiper,LC
+0372,0367#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris bairdii,黑腰滨鹬,Baird's Sandpiper,LC
+0373,0368#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris melanotos,斑胸滨鹬,Pectoral Sandpiper,LC
+0374,0369#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris acuminata,尖尾滨鹬,Sharp-tailed Sandpiper,LC
+0375,0372#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris ferruginea,弯嘴滨鹬,Curlew Sandpiper,NT
+0376,0370#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris ptilocnemis,岩滨鹬,Rock Sandpiper,LC
+0377,0371#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris alpina,黑腹滨鹬,Dunlin,LC
+0378,0373#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Calidris himantopus,高跷鹬,Stilt Sandpiper,LC
+0379,0361#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Eurynorhynchus pygmeus,勺嘴鹬,Spoon-billed Sandpiper,CR
+0380,0375#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Limicola falcinellus,阔嘴鹬,Broad-billed Sandpiper,LC
+0381,0374#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Tryngites subruficollis,饰胸鹬,Buff-breasted Sandpiper,NT
+0382,0376#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Philomachus pugnax,流苏鹬,Ruff,LC
+0383,0377#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Phalaropus lobatus,红颈瓣蹼鹬,Red-necked Phalarope,LC
+0384,0378#,鸻形目,CHARADRIIFORMES,丘鹬科,Scolopacidae,Phalaropus fulicarius,灰瓣蹼鹬,Red Phalarope,LC
+0385,0404#,鸻形目,CHARADRIIFORMES,燕鸻科,Glareolidae,Glareola pratincola,领燕鸻,Collared Pratincole,LC
+0386,0405#,鸻形目,CHARADRIIFORMES,燕鸻科,Glareolidae,Glareola maldivarum,普通燕鸻,Oriental Pratincole,LC
+0387,     ,鸻形目,CHARADRIIFORMES,燕鸻科,Glareolidae,Glareola nordmanni,黑翅燕鸻,Black-winged Pratincole,NT
+0388,0406#,鸻形目,CHARADRIIFORMES,燕鸻科,Glareolidae,Glareola lactea,灰燕鸻,Small Pratincole,LC
+0389,0449#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Anous stolidus,白顶玄鸥,Brown Noddy,LC
+0390,     ,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Anous minutus,玄燕鸥,Black Noddy,
+0391,0450#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Gygis alba,白玄鸥,White Tern,LC
+0393,0431#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Rissa tridactyla,三趾鸥,Black-legged Kittiwake,LC
+0393,     ,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Xema sabini,叉尾鸥,Sabine's Gull,LC
+0394,0425#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Chroicocephalus genei,细嘴鸥,Slender-billed Gull,LC
+0395,     ,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Chroicocephalus novaehollandiae,澳洲红嘴鸥,Silver Gull,LC
+0396,0423#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Chroicocephalus brunnicephalus,棕头鸥,Brown-headed Gull,LC
+0397,0424#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Chroicocephalus ridibundus,红嘴鸥,Black-headed Gull,LC
+0398,0426#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Chroicocephalus saundersi,黑嘴鸥,Saunders's Gull,VU
+0399,0428#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Hydrocoloeus minutus,小鸥,Little Gull,LC
+0400,0429#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Rhodostethia rosea,楔尾鸥,Ross's Gull,LC
+0401,     ,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Leucophaeus atricilla,笑鸥,Laughing Gull,LC
+0402,     ,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Leucophaeus pipixcan,弗氏鸥,Franklin's Gull,LC
+0403,0427#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Ichthyaetus relictus,遗鸥,Relict Gull,VU
+0404,0422#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Ichthyaetus ichthyaetus,渔鸥,Pallas's Gull,LC
+0405,0413#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Larus crassirostris,黑尾鸥,Black-tailed Gull,LC
+0406,0414#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Larus canus,海鸥,Mew Gull,LC
+0407,0415#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Larus glaucescens,灰翅鸥,Glaucous-winged Gull,LC
+0408,0416#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Larus hyperboreus,北极鸥,Glaucous Gull,LC
+0409,0420#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Larus vegae,西伯利亚银鸥,Vega Gull,
+0410,     ,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Larus mongolicus,蒙古银鸥,Mongolian Gull,
+0411,0421#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Larus cachinnans,黄脚银鸥,Yellow-legged Gull,LC
+0412,0417#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Larus schistisagus,灰背鸥,Slaty-backed Gull,LC
+0413,0418#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Larus heuglini,乌灰银鸥,Heuglin's Gull,
+0414,0432#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Gelochelidon nilotica,鸥嘴噪鸥,Gull-billed Tern,LC
+0415,0433#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Hydroprogne caspia,红嘴巨鸥,Caspian Tern,LC
+0416,0436#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Thalasseus bergii,大凤头燕鸥,Greater Crested Tern,LC
+0417,0435#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Thalasseus bengalensis,小凤头燕鸥,Lesser Crested Tern,LC
+0418,0437#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Thalasseus bernsteini,中华凤头燕鸥,Chinese Crested Tern,CR
+0419,     ,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Thalasseus sandvicensis,白嘴端凤头燕鸥,Sandwich Tern,LC
+0420,0441#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Sternula albifrons,白额燕鸥,Little Tern,LC
+0421,0443#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Onychoprion aleuticus,白腰燕鸥,Aleutian Tern,LC
+0422,0444#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Onychoprion anaethetus,褐翅燕鸥,Bridled Tern,LC
+0423,0445#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Onychoprion fuscatus,乌燕鸥,Sooty Tern,LC
+0424,0434#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Sterna aurantia,黄嘴河燕鸥,River Tern,NT
+0425,0438#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Sterna dougallii,粉红燕鸥,Roseate Tern,LC
+0426,0439#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Sterna sumatrana,黑枕燕鸥,Black-naped Tern,LC
+0427,0440#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Sterna hirundo,普通燕鸥,Common Tern,LC
+0428,0442#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Sterna acuticauda,黑腹燕鸥,Black-bellied Tern,EN
+0429,0446#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Chlidonias hybrida,须浮鸥,Whiskered Tern,LC
+0430,0447#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Chlidonias leucopterus,白翅浮鸥,White-winged Tern,LC
+0431,0448#,鸻形目,CHARADRIIFORMES,鸥科,Laridae,Chlidonias niger,黑浮鸥,Black Tern,LC
+0432,0408#,鸻形目,CHARADRIIFORMES,贼鸥科,Stercorariidae,Stercorarius maccormicki,麦氏贼鸥,South Polar Skua,LC
+0433,0409#,鸻形目,CHARADRIIFORMES,贼鸥科,Stercorariidae,Stercorarius pomarinus,中贼鸥,Pomarine Skua,LC
+0434,0410#,鸻形目,CHARADRIIFORMES,贼鸥科,Stercorariidae,Stercorarius parasiticus,短尾贼鸥,Parasitic Jaeger,LC
+0435,0411#,鸻形目,CHARADRIIFORMES,贼鸥科,Stercorariidae,Stercorarius longicaudus,长尾贼鸥,Long-tailed Jaeger,LC
+0436,     ,鸻形目,CHARADRIIFORMES,海雀科,Alcidae,Uria aalge,崖海鸦,Common Murre,LC
+0437,0451#,鸻形目,CHARADRIIFORMES,海雀科,Alcidae,Brachyramphus perdix,斑海雀,Long-billed Murrelet,NT
+0438,0452#,鸻形目,CHARADRIIFORMES,海雀科,Alcidae,Synthliboramphus antiquus,扁嘴海雀,Ancient Murrelet,LC
+0439,0453#,鸻形目,CHARADRIIFORMES,海雀科,Alcidae,Synthliboramphus wumizusume,冠海雀,Japanese Murrelet,VU
+0440,0454#,鸻形目,CHARADRIIFORMES,海雀科,Alcidae,Cerorhinca monocerata,角嘴海雀,Rhinoceros Auklet,LC
+0441,0325#,沙鸡目,PTEROCLIFORMES,沙鸡科,Pteroclidae,Syrrhaptes tibetanus,西藏毛腿沙鸡,Tibetan Sandgrouse,LC
+0442,0326#,沙鸡目,PTEROCLIFORMES,沙鸡科,Pteroclidae,Syrrhaptes paradoxus,毛腿沙鸡,Pallas's Sandgrouse,LC
+0443,0327#,沙鸡目,PTEROCLIFORMES,沙鸡科,Pteroclidae,Pterocles orientalis,黑腹沙鸡,Black-bellied Sandgrouse,LC
+0444,0263#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba livia,原鸽,Rock Pigeon,LC
+0445,0264#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba rupestris,岩鸽,Hill Pigeon,LC
+0446,0265#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba leuconota,雪鸽,Snow Pigeon,LC
+0447,0266#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba oenas,欧鸽,Stock Dove,LC
+0448,0267#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba eversmanni,中亚鸽,Yellow-eyed Pigeon,VU
+0449,0268#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba palumbus,斑尾林鸽,Common Wood Pigeon,LC
+0450,0269#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba hodgsonii,点斑林鸽,Speckled Wood Pigeon,LC
+0451,0270#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba pulchricollis,灰林鸽,Ashy Wood Pigeon,LC
+0452,0271#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba punicea,紫林鸽,Pale-capped Pigeon,VU
+0453,0272#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Columba janthina,黑林鸽,Japanese Wood Pigeon,NT
+0454,0273#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Streptopelia turtur,欧斑鸠,European Turtle Dove,VU
+0455,0274#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Streptopelia orientalis,山斑鸠,Oriental Turtle Dove,LC
+0456,0278#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Streptopelia decaocto,灰斑鸠,Eurasian Collared Dove,LC
+0457,0277#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Streptopelia tranquebarica,火斑鸠,Red Turtle Dove,LC
+0458,0276#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Spilopelia chinensis,珠颈斑鸠,Spotted Dove,LC
+0459,0275#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Spilopelia senegalensis,棕斑鸠,Laughing Dove,LC
+0460,0279#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Macropygia unchall,斑尾鹃鸠,Barred Cuckoo-Dove,LC
+0461,0280#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Macropygia tenuirostris,菲律宾鹃鸠,Philippine Cuckoo-Dove,LC
+0462,0281#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Macropygia ruficeps,小鹃鸠,Little Cuckoo-Dove,LC
+0463,0282#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Chalcophaps indica,绿翅金鸠,Emerald Dove,LC
+0464,0283#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Treron bicinctus,橙胸绿鸠,Orange-breasted Green Pigeon,LC
+0465,0284#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Treron phayrei,灰头绿鸠,Ashy-headed Green Pigeon,NT
+0466,0285#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Treron curvirostra,厚嘴绿鸠,Thick-billed Green Pigeon,LC
+0467,0286#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Treron phoenicopterus,黄脚绿鸠,Yellow-footed Green Pigeon,LC
+0468,0287#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Treron apicauda,针尾绿鸠,Pin-tailed Green Pigeon,LC
+0469,0288#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Treron sphenurus,楔尾绿鸠,Wedge-tailed Green Pigeon,LC
+0470,0289#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Treron sieboldii,红翅绿鸠,White-bellied Green Pigeon,LC
+0471,0290#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Treron formosae,红顶绿鸠,Whistling Green Pigeon,NT
+0472,0291#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Ptilinopus leclancheri,黑颏果鸠,Black-chinned Fruit Dove,LC
+0473,0292#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Ducula aenea,绿皇鸠,Green Imperial Pigeon,LC
+0474,0293#,鸽形目,COLUMBIFORMES,鸠鸽科,Columbidae,Ducula badia,山皇鸠,Mountain Imperial Pigeon,LC
+0475,0207#,鹦形目,PSITTACIFORMES,鹦鹉科,Psittacidae,Loriculus vernalis,短尾鹦鹉,Vernal Hanging Parrot,LC
+0476,     ,鹦形目,PSITTACIFORMES,鹦鹉科,Psittacidae,Psittinus cyanurus,蓝腰短尾鹦鹉,Blue-rumped Parrot,NT
+0477,     ,鹦形目,PSITTACIFORMES,鹦鹉科,Psittacidae,Psittacula eupatria,亚历山大鹦鹉,Alexandrine Parakeet,NT
+0478,0208#,鹦形目,PSITTACIFORMES,鹦鹉科,Psittacidae,Psittacula krameri,红领绿鹦鹉,Rose-ringed Parakeet,LC
+0479,     ,鹦形目,PSITTACIFORMES,鹦鹉科,Psittacidae,Psittacula himalayana,青头鹦鹉,Slaty-headed Parakeet,LC
+0480,0209#,鹦形目,PSITTACIFORMES,鹦鹉科,Psittacidae,Psittacula finschii,灰头鹦鹉,Grey-headed Parakeet,NT
+0481,0210#,鹦形目,PSITTACIFORMES,鹦鹉科,Psittacidae,Psittacula roseata,花头鹦鹉,Blossom-headed Parakeet,NT
+0482,0211#,鹦形目,PSITTACIFORMES,鹦鹉科,Psittacidae,Psittacula derbiana,大紫胸鹦鹉,Derbyan Parakeet,NT
+0483,0212#,鹦形目,PSITTACIFORMES,鹦鹉科,Psittacidae,Psittacula alexandri,绯胸鹦鹉,Red-breasted Parakeet,NT
+0484,0203#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Centropus sinensis,褐翅鸦鹃,Greater Coucal,LC
+0485,0204#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Centropus bengalensis,小鸦鹃,Lesser Coucal,LC
+0486,0202#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Phaenicophaeus tristis,绿嘴地鹃,Green-billed Malkoha,LC
+0487,0188#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Clamator coromandus,红翅凤头鹃,Chestnut-winged Cuckoo,LC
+0488,0187#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Clamator jacobinus,斑翅凤头鹃,Pied Cuckoo,LC
+0489,0201#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Eudynamys scolopaceus,噪鹃,Asian Koel,LC
+0490,0198#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Chrysococcyx maculatus,翠金鹃,Asian Emerald Cuckoo,LC
+0491,0199#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Chrysococcyx xanthorhynchus,紫金鹃,Violet Cuckoo,LC
+0492,0196#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Cacomantis sonneratii,栗斑杜鹃,Banded Bay Cuckoo,LC
+0493,0197#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Cacomantis merulinus,八声杜鹃,Plaintive Cuckoo,LC
+0494,0200#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Surniculus dicruroides,乌鹃,Fork-tailed Drongo-Cuckoo,LC
+0495,0189#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Hierococcyx sparverioides,鹰鹃,Large Hawk-Cuckoo,LC
+0496,0190#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Hierococcyx varius,普通鹰鹃,Common Hawk-Cuckoo,LC
+0497,0191#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Hierococcyx hyperythrus,北鹰鹃,Northern Hawk-Cuckoo,LC
+0498,     ,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Hierococcyx nisicolor,霍氏鹰鹃,Hodgson's Hawk-Cuckoo,LC
+0499,0195#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Cuculus poliocephalus,小杜鹃,Asian Lesser Cuckoo,LC
+0500,0192#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Cuculus micropterus,四声杜鹃,Indian Cuckoo,LC
+0501,0194#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Cuculus saturatus,中杜鹃,Himalayan Cuckoo,LC
+0502,     ,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Cuculus optatus,北方中杜鹃,Oriental Cuckoo,
+0503,0193#,鹃形目,CUCULIFORMES,杜鹃科,Cuculidae,Cuculus canorus,大杜鹃,Common Cuckoo,LC
+0504,0224#,鸮形目,STRIGIFORMES,仓鸮科,Tytonidae,Tyto alba,仓鸮,Barn Owl,LC
+0505,0225#,鸮形目,STRIGIFORMES,仓鸮科,Tytonidae,Tyto longimembris,草鸮,Eastern Grass Owl,LC
+0506,0226#,鸮形目,STRIGIFORMES,仓鸮科,Tytonidae,Phodilus badius,栗鸮,Oriental Bay Owl,LC
+0507,0227#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Otus spilocephalus,黄嘴角鸮,Mountain Scops Owl,LC
+0508,0232#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Otus lettia,领角鸮,Collared Scops Owl,LC
+0509,     ,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Otus semitorques,日本角鸮,Japanese Scops Owl,LC
+0510,0228#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Otus brucei,纵纹角鸮,Pallid Scops Owl,LC
+0511,0229#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Otus scops,西红角鸮,Eurasian Scops Owl,LC
+0512,0230#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Otus sunia,红角鸮,Oriental Scops Owl,LC
+0513,0231#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Otus elegans,琉球角鸮,Elegant Scops Owl,NT
+0514,0239#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Bubo scandiacus,雪鸮,Snowy Owl,LC
+0515,0233#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Bubo bubo,雕鸮,Eurasian Eagle-Owl,LC
+0516,0234#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Bubo nipalensis,林雕鸮,Spot-bellied Eagle-Owl,LC
+0517,0235#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Bubo coromandus,乌雕鸮,Dusky Eagle-Owl,LC
+0518,0236#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Bubo blakistoni,毛腿渔鸮,Blakiston's Fish Owl,EN
+0519,0237#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Ketupa zeylonensis,褐渔鸮,Brown Fish Owl,LC
+0520,0238#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Ketupa flavipes,黄腿渔鸮,Tawny Fish Owl,LC
+0521,0240#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Strix leptogrammica,褐林鸮,Brown Wood Owl,LC
+0522,0241#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Strix nivicolum,灰林鸮,Himalayan Owl,LC
+0523,0242#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Strix uralensis,长尾林鸮,Ural Owl,LC
+0524,0243#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Strix davidi,四川林鸮,Sichuan Wood Owl,
+0525,0244#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Strix nebulosa,乌林鸮,Great Grey Owl,LC
+0526,0245#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Surnia ulula,猛鸮,Northern Hawk-Owl,LC
+0527,0246#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Glaucidium passerinum,花头鸺鹠,Eurasian Pygmy Owlet,LC
+0528,0247#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Glaucidium brodiei,领鸺鹠,Collared Owlet,LC
+0529,0248#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Glaucidium cuculoides,斑头鸺鹠,Asian Barred Owlet,LC
+0530,0249#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Athene noctua,纵纹腹小鸮,Little Owl,LC
+0531,0250#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Athene brama,横斑腹小鸮,Spotted Owlet,LC
+0532,0251#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Aegolius funereus,鬼鸮,Boreal Owl,LC
+0533,0252#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Ninox scutulata,鹰鸮,Brown Hawk-Owl,LC
+0534,     ,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Ninox japonica,北鹰鸮,Northern Boobook,LC
+0535,0253#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Asio otus,长耳鸮,Long-eared Owl,LC
+0536,0254#,鸮形目,STRIGIFORMES,鸱鸮科,Strigidae,Asio flammeus,短耳鸮,Short-eared Owl,LC
+0537,0255#,夜鹰目,CAPRIMULGIFORMES,蟆口鸱科,Podargidae,Batrachostomus hodgsoni,黑顶蟆口鸱,Hodgson's Frogmouth,LC
+0538,0256#,夜鹰目,CAPRIMULGIFORMES,夜鹰科,Caprimulgidae,Lyncornis macrotis,毛腿耳夜鹰,Great Eared Nightjar,LC
+0539,0257#,夜鹰目,CAPRIMULGIFORMES,夜鹰科,Caprimulgidae,Caprimulgus jotaka,普通夜鹰,Grey Nightjar,LC
+0540,0258#,夜鹰目,CAPRIMULGIFORMES,夜鹰科,Caprimulgidae,Caprimulgus europaeus,欧夜鹰,European Nightjar,LC
+0541,0259#,夜鹰目,CAPRIMULGIFORMES,夜鹰科,Caprimulgidae,Caprimulgus aegyptius,埃及夜鹰,Egyptian Nightjar,LC
+0542,0260#,夜鹰目,CAPRIMULGIFORMES,夜鹰科,Caprimulgidae,Caprimulgus centralasicus,中亚夜鹰,Vaurie's Nightjar,DD
+0543,0261#,夜鹰目,CAPRIMULGIFORMES,夜鹰科,Caprimulgidae,Caprimulgus macrurus,长尾夜鹰,Large-tailed Nightjar,LC
+0544,0262#,夜鹰目,CAPRIMULGIFORMES,夜鹰科,Caprimulgidae,Caprimulgus affinis,林夜鹰,Savanna Nightjar,LC
+0545,0223#,雨燕目,APODIFORMES,树燕科,Hemiprocnidae,Hemiprocne coronata,凤头树燕,Crested Treeswift,LC
+0546,0214#,雨燕目,APODIFORMES,雨燕科,Apodidae,Aerodramus brevirostris,短嘴金丝燕,Himalayan Swiftlet,LC
+0547,0215#,雨燕目,APODIFORMES,雨燕科,Apodidae,Aerodramus germani,戈氏金丝燕,Germain's Swiftlet,
+0548,0216#,雨燕目,APODIFORMES,雨燕科,Apodidae,Hirundapus caudacutus,白喉针尾雨燕,White-throated Needletail,LC
+0549,0217#,雨燕目,APODIFORMES,雨燕科,Apodidae,Hirundapus cochinchinensis,灰喉针尾雨燕,Silver-backed Needletail,LC
+0550,     ,雨燕目,APODIFORMES,雨燕科,Apodidae,Hirundapus giganteus,褐背针尾雨燕,Brown-backed Needletail,LC
+0551,     ,雨燕目,APODIFORMES,雨燕科,Apodidae,Hirundapus celebensis,紫针尾雨燕,Purple Needletail,LC
+0552,0218#,雨燕目,APODIFORMES,雨燕科,Apodidae,Cypsiurus balasiensis,棕雨燕,Asian Palm Swift,LC
+0553,0219#,雨燕目,APODIFORMES,雨燕科,Apodidae,Tachymarptis melba,高山雨燕,Alpine Swift,LC
+0554,0220#,雨燕目,APODIFORMES,雨燕科,Apodidae,Apus apus,普通楼燕,Common Swift,LC
+0555,0221#,雨燕目,APODIFORMES,雨燕科,Apodidae,Apus pacificus,白腰雨燕,Pacific Swift,LC
+0556,     ,雨燕目,APODIFORMES,雨燕科,Apodidae,Apus salimalii,青藏白腰雨燕,Salim Ali's Swift,
+0557,     ,雨燕目,APODIFORMES,雨燕科,Apodidae,Apus cooki,印支白腰雨燕,Cook's Swift,
+0558,     ,雨燕目,APODIFORMES,雨燕科,Apodidae,Apus acuticauda,暗背雨燕,Dark-rumped Swift,VU
+0559,0222#,雨燕目,APODIFORMES,雨燕科,Apodidae,Apus nipalensis,小白腰雨燕,House Swift,LC
+0560,0164#,咬鹃目,TROGONIFORMES,咬鹃科,Trogonidae,Harpactes oreskios,橙胸咬鹃,Orange-breasted Trogon,LC
+0561,0165#,咬鹃目,TROGONIFORMES,咬鹃科,Trogonidae,Harpactes erythrocephalus,红头咬鹃,Red-headed Trogon,LC
+0562,0166#,咬鹃目,TROGONIFORMES,咬鹃科,Trogonidae,Harpactes wardi,红腹咬鹃,Ward's Trogon,NT
+0563,0168#,佛法僧目,CORACIIFORMES,佛法僧科,Coraciidae,Coracias benghalensis,棕胸佛法僧,Indian Roller,LC
+0564,0167#,佛法僧目,CORACIIFORMES,佛法僧科,Coraciidae,Coracias garrulus,蓝胸佛法僧,European Roller,LC
+0565,0169#,佛法僧目,CORACIIFORMES,佛法僧科,Coraciidae,Eurystomus orientalis,三宝鸟,Oriental Dollarbird,LC
+0566,0174#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Pelargopsis capensis,鹳嘴翡翠,Stork-billed Kingfisher,LC
+0567,0175#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Halcyon coromanda,赤翡翠,Ruddy Kingfisher,LC
+0568,0176#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Halcyon smyrnensis,白胸翡翠,White-throated Kingfisher,LC
+0569,0177#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Halcyon pileata,蓝翡翠,Black-capped Kingfisher,LC
+0570,0178#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Todiramphus chloris,白领翡翠,Collared Kingfisher,LC
+0571,0172#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Alcedo meninting,蓝耳翠鸟,Blue-eared Kingfisher,LC
+0572,0171#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Alcedo atthis,普通翠鸟,Common Kingfisher,LC
+0573,0170#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Alcedo hercules,斑头大翠鸟,Blyth's Kingfisher,NT
+0574,0173#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Ceyx erithaca,三趾翠鸟,Oriental Dwarf Kingfisher,LC
+0575,0179#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Megaceryle lugubris,冠鱼狗,Crested Kingfisher,LC
+0576,0180#,佛法僧目,CORACIIFORMES,翠鸟科,Alcedinidae,Ceryle rudis,斑鱼狗,Pied Kingfisher,LC
+0577,0181#,佛法僧目,CORACIIFORMES,蜂虎科,Meropidae,Nyctyornis athertoni,蓝须夜蜂虎,Blue-bearded Bee-eater,LC
+0578,0182#,佛法僧目,CORACIIFORMES,蜂虎科,Meropidae,Merops orientalis,绿喉蜂虎,Green Bee-eater,LC
+0579,     ,佛法僧目,CORACIIFORMES,蜂虎科,Meropidae,Merops persicus,蓝颊蜂虎,Blue-cheeked Bee-eater,LC
+0580,0184#,佛法僧目,CORACIIFORMES,蜂虎科,Meropidae,Merops philippinus,栗喉蜂虎,Blue-tailed Bee-eater,LC
+0581,     ,佛法僧目,CORACIIFORMES,蜂虎科,Meropidae,Merops ornatus,彩虹蜂虎,Rainbow Bee-eater,LC
+0582,0183#,佛法僧目,CORACIIFORMES,蜂虎科,Meropidae,Merops viridis,蓝喉蜂虎,Blue-throated Bee-eater,LC
+0583,0186#,佛法僧目,CORACIIFORMES,蜂虎科,Meropidae,Merops leschenaulti,栗头蜂虎,Chestnut-headed Bee-eater,LC
+0584,0185#,佛法僧目,CORACIIFORMES,蜂虎科,Meropidae,Merops apiaster,黄喉蜂虎,European Bee-eater,LC
+0585,0163#,犀鸟目,BUCEROTIFORMES,戴胜科,Upupidae,Upupa epops,戴胜,Common Hoopoe,LC
+0586,0160#,犀鸟目,BUCEROTIFORMES,犀鸟科,Bucerotidae,Anorrhinus austeni,白喉犀鸟,White-throated Brown Hornbill,NT
+0587,0158#,犀鸟目,BUCEROTIFORMES,犀鸟科,Bucerotidae,Anthracoceros albirostris,冠斑犀鸟,Oriental Pied Hornbill,LC
+0588,0159#,犀鸟目,BUCEROTIFORMES,犀鸟科,Bucerotidae,Buceros bicornis,双角犀鸟,Great Hornbill,NT
+0589,0161#,犀鸟目,BUCEROTIFORMES,犀鸟科,Bucerotidae,Aceros nipalensis,棕颈犀鸟,Rufous-necked Hornbill,VU
+0590,0162#,犀鸟目,BUCEROTIFORMES,犀鸟科,Bucerotidae,Rhyticeros undulatus,花冠皱盔犀鸟,Wreathed Hornbill,LC
+0591,0150#,䴕形目,PICIFORMES,拟啄木鸟科,Megalaimidae,Megalaima virens,大拟啄木鸟,Great Barbet,LC
+0592,0151#,䴕形目,PICIFORMES,拟啄木鸟科,Megalaimidae,Megalaima lineata,斑头绿拟啄木鸟,Lineated Barbet,LC
+0593,0152#,䴕形目,PICIFORMES,拟啄木鸟科,Megalaimidae,Megalaima faiostricta,黄纹拟啄木鸟,Green-eared Barbet,LC
+0594,0153#,䴕形目,PICIFORMES,拟啄木鸟科,Megalaimidae,Megalaima franklinii,金喉拟啄木鸟,Golden-throated Barbet,LC
+0595,0154#,䴕形目,PICIFORMES,拟啄木鸟科,Megalaimidae,Megalaima faber,黑眉拟啄木鸟,Chinese Barbet,LC
+0596,     ,䴕形目,PICIFORMES,拟啄木鸟科,Megalaimidae,Megalaima nuchalis,台湾拟啄木鸟,Taiwan Barbet,LC
+0597,0155#,䴕形目,PICIFORMES,拟啄木鸟科,Megalaimidae,Megalaima asiatica,蓝喉拟啄木鸟,Blue-throated Barbet,LC
+0598,0156#,䴕形目,PICIFORMES,拟啄木鸟科,Megalaimidae,Megalaima australis,蓝耳拟啄木鸟,Blue-eared Barbet,LC
+0599,0157#,䴕形目,PICIFORMES,拟啄木鸟科,Megalaimidae,Megalaima haemacephala,赤胸拟啄木鸟,Coppersmith Barbet,LC
+0600,0118#,䴕形目,PICIFORMES,响蜜鴷科,Indicatoridae,Indicator xanthonotus,黄腰响蜜䴕,Yellow-rumped Honeyguide,NT
+0601,0119#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Jynx torquilla,蚁䴕,Eurasian Wryneck,LC
+0602,0120#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Picumnus innominatus,斑姬啄木鸟,Speckled Piculet,LC
+0603,0121#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Sasia ochracea,白眉棕啄木鸟,White-browed Piculet,LC
+0604,0127#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos hyperythrus,棕腹啄木鸟,Rufous-bellied Woodpecker,LC
+0605,0123#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos kizuki,小星头啄木鸟,Japanese Pygmy Woodpecker,LC
+0606,0122#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos canicapillus,星头啄木鸟,Grey-capped Pygmy Woodpecker,LC
+0607,0124#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos minor,小斑啄木鸟,Lesser Spotted Woodpecker,LC
+0608,0125#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos macei,茶胸斑啄木鸟,Fulvous-breasted Woodpecker,LC
+0609,0126#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos atratus,纹胸啄木鸟,Stripe-breasted Woodpecker,LC
+0610,     ,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos auriceps,褐额啄木鸟,Brown-fronted Woodpecker,LC
+0611,0128#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos cathpharius,赤胸啄木鸟,Crimson-breasted Woodpecker,LC
+0612,0129#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos darjellensis,黄颈啄木鸟,Darjeeling Woodpecker,LC
+0613,0130#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos leucotos,白背啄木鸟,White-backed Woodpecker,LC
+0614,0132#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos leucopterus,白翅啄木鸟,White-winged Woodpecker,LC
+0615,0131#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dendrocopos major,大斑啄木鸟,Great Spotted Woodpecker,LC
+0616,0133#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Picoides tridactylus,三趾啄木鸟,Eurasian Three-toed Woodpecker,LC
+0617,0135#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dryocopus javensis,白腹黑啄木鸟,White-bellied Woodpecker,LC
+0618,0136#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dryocopus martius,黑啄木鸟,Black Woodpecker,LC
+0619,0138#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Chrysophlegma flavinucha,大黄冠啄木鸟,Greater Yellownape,LC
+0620,0137#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Picus chlorolophus,黄冠啄木鸟,Lesser Yellownape,LC
+0621,0139#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Picus vittatus,花腹绿啄木鸟,Laced Woodpecker,LC
+0622,0140#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Picus xanthopygaeus,鳞喉绿啄木鸟,Streak-throated Woodpecker,LC
+0623,0141#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Picus squamatus,鳞腹绿啄木鸟,Scaly-bellied Woodpecker,LC
+0624,0142#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Picus rabieri,红颈绿啄木鸟,Red-collared Woodpecker,NT
+0625,0143#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Picus canus,灰头绿啄木鸟,Grey-headed Woodpecker,LC
+0626,0145#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Dinopium javanense,金背三趾啄木鸟,Common Flameback,LC
+0627,0146#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Chrysocolaptes guttacristatus,大金背啄木鸟,Greater Flameback,LC
+0628,0147#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Gecinulus grantia,竹啄木鸟,Pale-headed Woodpecker,LC
+0629,0148#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Blythipicus pyrrhotis,黄嘴栗啄木鸟,Bay Woodpecker,LC
+0630,0134#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Micropternus brachyurus,栗啄木鸟,Rufous Woodpecker,LC
+0631,0149#,䴕形目,PICIFORMES,啄木鸟科,Picidae,Mulleripicus pulverulentus,大灰啄木鸟,Great Slaty Woodpecker,VU
+0632,0605#,雀形目,PASSERIFORMES,阔嘴鸟科,Eurylaimidae,Psarisomus dalhousiae,长尾阔嘴鸟,Long-tailed Broadbill,LC
+0633,0604#,雀形目,PASSERIFORMES,阔嘴鸟科,Eurylaimidae,Serilophus lunatus,银胸丝冠鸟,Silver-breasted Broadbill,LC
+0634,0596#,雀形目,PASSERIFORMES,八色鸫科,Pittidae,Hydrornis phayrei,双辫八色鸫,Eared Pitta,LC
+0635,0597#,雀形目,PASSERIFORMES,八色鸫科,Pittidae,Hydrornis nipalensis,蓝枕八色鸫,Blue-naped Pitta,LC
+0636,0598#,雀形目,PASSERIFORMES,八色鸫科,Pittidae,Hydrornis soror,蓝背八色鸫,Blue-rumped Pitta,LC
+0637,0599#,雀形目,PASSERIFORMES,八色鸫科,Pittidae,Hydrornis oatesi,栗头八色鸫,Rusty-naped Pitta,LC
+0638,0600#,雀形目,PASSERIFORMES,八色鸫科,Pittidae,Hydrornis cyaneus,蓝八色鸫,Blue Pitta,LC
+0639,0601#,雀形目,PASSERIFORMES,八色鸫科,Pittidae,Pitta sordida,绿胸八色鸫,Hooded Pitta,LC
+0640,0602#,雀形目,PASSERIFORMES,八色鸫科,Pittidae,Pitta nympha,仙八色鸫,Fairy Pitta,VU
+0641,0603#,雀形目,PASSERIFORMES,八色鸫科,Pittidae,Pitta moluccensis,蓝翅八色鸫,Blue-winged Pitta,LC
+0642,0668#,雀形目,PASSERIFORMES,林鵙科,Tephrodornithidae,Hemipus picatus,褐背鹟鵙,Bar-winged Flycatcher-shrike,LC
+0643,0684#,雀形目,PASSERIFORMES,林鵙科,Tephrodornithidae,Tephrodornis virgatus,钩嘴林鵙,Large Woodshrike,LC
+0644,0652#,雀形目,PASSERIFORMES,燕鵙科,Artamidae,Artamus fuscus,灰燕鵙,Ashy Woodswallow,LC
+0645,0682#,雀形目,PASSERIFORMES,雀鹎科,Aegithinidae,Aegithina tiphia,黑翅雀鹎,Common Iora,LC
+0646,0683#,雀形目,PASSERIFORMES,雀鹎科,Aegithinidae,Aegithina lafresnayei,大绿雀鹎,Great Iora,LC
+0647,0659#,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Coracina macei,大鹃鵙,Large Cuckooshrike,LC
+0648,0660#,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Coracina melaschistos,暗灰鹃鵙,Black-winged Cuckooshrike,LC
+0649,     ,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Lalage nigra,黑鸣鹃鵙,Pied Triller,LC
+0650,0661#,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Pericrocotus roseus,粉红山椒鸟,Rosy Minivet,LC
+0651,0662#,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Pericrocotus cantonensis,小灰山椒鸟,Swinhoe's Minivet,LC
+0652,0663#,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Pericrocotus divaricatus,灰山椒鸟,Ashy Minivet,LC
+0653,     ,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Pericrocotus tegimae,琉球山椒鳥,Ryukyu Minivet,LC
+0654,0664#,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Pericrocotus solaris,灰喉山椒鸟,Grey-chinned Minivet,LC
+0655,0665#,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Pericrocotus ethologus,长尾山椒鸟,Long-tailed Minivet,LC
+0656,0666#,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Pericrocotus brevirostris,短嘴山椒鸟,Short-billed Minivet,LC
+0657,0667#,雀形目,PASSERIFORMES,鹃鵙科,Campephagidae,Pericrocotus speciosus,赤红山椒鸟,Scarlet Minivet,LC
+0658,0610#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius tigrinus,虎纹伯劳,Tiger Shrike,LC
+0659,0611#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius bucephalus,牛头伯劳,Bull-headed Shrike,LC
+0660,0614#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius cristatus,红尾伯劳,Brown Shrike,LC
+0661,0612#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius collurio,红背伯劳,Red-backed Shrike,LC
+0662,0613#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius isabellinus,荒漠伯劳,Isabelline Shrike,LC
+0663,     ,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius phoenicuroides,棕尾伯劳,Rufous-tailed Shrike,
+0664,0615#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius collurioides,栗背伯劳,Burmese Shrike,LC
+0665,     ,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius vittatus,褐背伯劳,Bay-backed Shrike,LC
+0666,0616#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius schach,棕背伯劳,Long-tailed Shrike,LC
+0667,0617#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius tephronotus,灰背伯劳,Grey-backed Shrike,LC
+0668,0618#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius minor,黑额伯劳,Lesser Grey Shrike,LC
+0669,0619#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius excubitor,灰伯劳,Great Grey Shrike,LC
+0670,     ,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius meridionalis,南灰伯劳,Southern Grey Shrike,
+0671,     ,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius pallidirostris,草原灰伯劳,Steppe Grey Shrike,
+0672,0620#,雀形目,PASSERIFORMES,伯劳科,Laniidae,Lanius sphenocercus,楔尾伯劳,Chinese Grey Shrike,LC
+0673,1135#,雀形目,PASSERIFORMES,莺雀科,Vireonidae,Erpornis zantholeuca,白腹凤鹛,White-bellied Erpornis,LC
+0674,1090#,雀形目,PASSERIFORMES,莺雀科,Vireonidae,Pteruthius rufiventer,棕腹鵙鹛,Black-headed Shrike Babbler,LC
+0675,1091#,雀形目,PASSERIFORMES,莺雀科,Vireonidae,Pteruthius aeralatus,红翅鵙鹛,Blyth's Shrike Babbler,
+0676,1092#,雀形目,PASSERIFORMES,莺雀科,Vireonidae,Pteruthius xanthochlorus,淡绿鵙鹛,Green Shrike Babbler,LC
+0677,1093#,雀形目,PASSERIFORMES,莺雀科,Vireonidae,Pteruthius melanotis,栗喉鵙鹛,Black-eared Shrike Babbler,LC
+0678,1094#,雀形目,PASSERIFORMES,莺雀科,Vireonidae,Pteruthius intermedius,栗额鵙鹛,Clicking Shrike Babbler,
+0679,0653#,雀形目,PASSERIFORMES,黄鹂科,Oriolidae,Oriolus oriolus,金黄鹂,Eurasian Golden Oriole,LC
+0680,     ,雀形目,PASSERIFORMES,黄鹂科,Oriolidae,Oriolus kundoo,印度金黄鹂,Indian Golden Oriole,
+0681,0655#,雀形目,PASSERIFORMES,黄鹂科,Oriolidae,Oriolus tenuirostris,细嘴黄鹂,Slender-billed Oriole,LC
+0682,0654#,雀形目,PASSERIFORMES,黄鹂科,Oriolidae,Oriolus chinensis,黑枕黄鹂,Black-naped Oriole,LC
+0683,0656#,雀形目,PASSERIFORMES,黄鹂科,Oriolidae,Oriolus xanthornus,黑头黄鹂,Black-hooded Oriole,LC
+0684,0657#,雀形目,PASSERIFORMES,黄鹂科,Oriolidae,Oriolus traillii,朱鹂,Maroon Oriole,LC
+0685,0658#,雀形目,PASSERIFORMES,黄鹂科,Oriolidae,Oriolus mellianus,鹊色鹂,Silver Oriole,EN
+0686,0672#,雀形目,PASSERIFORMES,卷尾科,Dicruridae,Dicrurus macrocercus,黑卷尾,Black Drongo,LC
+0687,0673#,雀形目,PASSERIFORMES,卷尾科,Dicruridae,Dicrurus leucophaeus,灰卷尾,Ashy Drongo,LC
+0688,0674#,雀形目,PASSERIFORMES,卷尾科,Dicruridae,Dicrurus annectans,鸦嘴卷尾,Crow-billed Drongo,LC
+0689,0675#,雀形目,PASSERIFORMES,卷尾科,Dicruridae,Dicrurus aeneus,古铜色卷尾,Bronzed Drongo,LC
+0690,0676#,雀形目,PASSERIFORMES,卷尾科,Dicruridae,Dicrurus remifer,小盘尾,Lesser Racket-tailed Drongo,LC
+0691,0677#,雀形目,PASSERIFORMES,卷尾科,Dicruridae,Dicrurus hottentottus,发冠卷尾,Hair-crested Drongo,LC
+0692,0678#,雀形目,PASSERIFORMES,卷尾科,Dicruridae,Dicrurus paradiseus,大盘尾,Greater Racket-tailed Drongo,LC
+0693,0670#,雀形目,PASSERIFORMES,扇尾鹟科,Rhipiduridae,Rhipidura albicollis,白喉扇尾鹟,White-throated Fantail,LC
+0694,0671#,雀形目,PASSERIFORMES,扇尾鹟科,Rhipiduridae,Rhipidura aureola,白眉扇尾鹟,White-browed Fantail,LC
+0695,0679#,雀形目,PASSERIFORMES,王鹟科,Monarchidae,Hypothymis azurea,黑枕王鹟,Black-naped Monarch,LC
+0696,     ,雀形目,PASSERIFORMES,王鹟科,Monarchidae,Terpsiphone paradisi,印缅寿带,Indian Paradise Flycatcher,LC
+0697,     ,雀形目,PASSERIFORMES,王鹟科,Monarchidae,Terpsiphone affinis,中南寿带,Oriental Paradise Flycatcher,
+0698,0681#,雀形目,PASSERIFORMES,王鹟科,Monarchidae,Terpsiphone incei,寿带,Amur Paradise Flycatcher,
+0699,0680#,雀形目,PASSERIFORMES,王鹟科,Monarchidae,Terpsiphone atrocaudata,紫寿带,Japanese Paradise-flycatcher,NT
+0700,0622#,雀形目,PASSERIFORMES,鸦科,Corvidae,Perisoreus infaustus,北噪鸦,Siberian Jay,LC
+0701,0623#,雀形目,PASSERIFORMES,鸦科,Corvidae,Perisoreus internigrans,黑头噪鸦,Sichuan Jay,VU
+0702,0621#,雀形目,PASSERIFORMES,鸦科,Corvidae,Garrulus glandarius,松鸦,Eurasian Jay,LC
+0703,0630#,雀形目,PASSERIFORMES,鸦科,Corvidae,Cyanopica cyanus,灰喜鹊,Azure-winged Magpie,LC
+0704,0624#,雀形目,PASSERIFORMES,鸦科,Corvidae,Urocissa caerulea,台湾蓝鹊,Taiwan Blue Magpie,LC
+0705,0625#,雀形目,PASSERIFORMES,鸦科,Corvidae,Urocissa flavirostris,黄嘴蓝鹊,Yellow-billed Blue Magpie,LC
+0706,0626#,雀形目,PASSERIFORMES,鸦科,Corvidae,Urocissa erythroryncha,红嘴蓝鹊,Red-billed Blue Magpie,LC
+0707,0627#,雀形目,PASSERIFORMES,鸦科,Corvidae,Urocissa whiteheadi,白翅蓝鹊,White-winged Magpie,LC
+0708,0628#,雀形目,PASSERIFORMES,鸦科,Corvidae,Cissa chinensis,蓝绿鹊,Common Green Magpie,LC
+0709,0629#,雀形目,PASSERIFORMES,鸦科,Corvidae,Cissa hypoleuca,印支绿鹊,Indochinese Green Magpie,LC
+0710,0631#,雀形目,PASSERIFORMES,鸦科,Corvidae,Dendrocitta vagabunda,棕腹树鹊,Rufous Treepie,LC
+0711,0632#,雀形目,PASSERIFORMES,鸦科,Corvidae,Dendrocitta formosae,灰树鹊,Grey Treepie,LC
+0712,0633#,雀形目,PASSERIFORMES,鸦科,Corvidae,Dendrocitta frontalis,黑额树鹊,Collared Treepie,LC
+0713,0635#,雀形目,PASSERIFORMES,鸦科,Corvidae,Temnurus temnurus,塔尾树鹊,Ratchet-tailed Treepie,LC
+0714,0636#,雀形目,PASSERIFORMES,鸦科,Corvidae,Pica pica,喜鹊,Common Magpie,LC
+0715,0637#,雀形目,PASSERIFORMES,鸦科,Corvidae,Podoces hendersoni,黑尾地鸦,Mongolian Ground Jay,LC
+0716,0638#,雀形目,PASSERIFORMES,鸦科,Corvidae,Podoces biddulphi,白尾地鸦,Xinjiang Ground Jay,NT
+0717,0640#,雀形目,PASSERIFORMES,鸦科,Corvidae,Nucifraga caryocatactes,星鸦,Spotted Nutcracker,LC
+0718,0641#,雀形目,PASSERIFORMES,鸦科,Corvidae,Pyrrhocorax pyrrhocorax,红嘴山鸦,Red-billed Chough,LC
+0719,0642#,雀形目,PASSERIFORMES,鸦科,Corvidae,Pyrrhocorax graculus,黄嘴山鸦,Alpine Chough,LC
+0720,0643#,雀形目,PASSERIFORMES,鸦科,Corvidae,Coloeus monedula,寒鸦,Eurasian Jackdaw,LC
+0721,0644#,雀形目,PASSERIFORMES,鸦科,Corvidae,Coloeus dauuricus,达乌里寒鸦,Daurian Jackdaw,LC
+0722,0645#,雀形目,PASSERIFORMES,鸦科,Corvidae,Corvus splendens,家鸦,House Crow,LC
+0723,0646#,雀形目,PASSERIFORMES,鸦科,Corvidae,Corvus frugilegus,秃鼻乌鸦,Rook,LC
+0724,0647#,雀形目,PASSERIFORMES,鸦科,Corvidae,Corvus corone,小嘴乌鸦,Carrion Crow,LC
+0725,     ,雀形目,PASSERIFORMES,鸦科,Corvidae,Corvus cornix,冠小嘴乌鸦,Hooded Crow,
+0726,0650#,雀形目,PASSERIFORMES,鸦科,Corvidae,Corvus torquatus,白颈鸦,Collared Crow,NT
+0727,0648#,雀形目,PASSERIFORMES,鸦科,Corvidae,Corvus macrorhynchos,大嘴乌鸦,Large-billed Crow,LC
+0728,0649#,雀形目,PASSERIFORMES,鸦科,Corvidae,Corvus levaillantii,丛林鸦,Jungle Crow,LC
+0729,0651#,雀形目,PASSERIFORMES,鸦科,Corvidae,Corvus corax,渡鸦,Common Raven,LC
+0730,0685#,雀形目,PASSERIFORMES,太平鸟科,Bombycillidae,Bombycilla garrulus,太平鸟,Bohemian Waxwing,LC
+0731,0686#,雀形目,PASSERIFORMES,太平鸟科,Bombycillidae,Bombycilla japonica,小太平鸟,Japanese Waxwing,NT
+0732,0669#,雀形目,PASSERIFORMES,仙莺科,Stenostiridae,Chelidorhynx hypoxantha,黄腹扇尾鹟,Yellow-bellied Fantail,LC
+0733,0759#,雀形目,PASSERIFORMES,仙莺科,Stenostiridae,Culicicapa ceylonensis,方尾鹟,Grey-headed Canary Flycatcher,LC
+0734,0851#,雀形目,PASSERIFORMES,山雀科,Paridae,Cephalopyrus flammiceps,火冠雀,Fire-capped Tit,LC
+0735,0870#,雀形目,PASSERIFORMES,山雀科,Paridae,Sylviparus modestus,黄眉林雀,Yellow-browed Tit,LC
+0736,0871#,雀形目,PASSERIFORMES,山雀科,Paridae,Melanochlora sultanea,冕雀,Sultan Tit,LC
+0737,0857#,雀形目,PASSERIFORMES,山雀科,Paridae,Periparus rufonuchalis,棕枕山雀,Rufous-naped Tit,LC
+0738,0858#,雀形目,PASSERIFORMES,山雀科,Paridae,Periparus rubidiventris,黑冠山雀,Rufous-vented Tit,LC
+0739,0859#,雀形目,PASSERIFORMES,山雀科,Paridae,Periparus ater,煤山雀,Coal Tit,LC
+0740,0860#,雀形目,PASSERIFORMES,山雀科,Paridae,Pardaliparus venustulus,黄腹山雀,Yellow-bellied Tit,LC
+0741,0861#,雀形目,PASSERIFORMES,山雀科,Paridae,Lophophanes dichrous,褐冠山雀,Grey-crested Tit,LC
+0742,0869#,雀形目,PASSERIFORMES,山雀科,Paridae,Sittiparus varius,杂色山雀,Varied Tit,LC
+0743,     ,雀形目,PASSERIFORMES,山雀科,Paridae,Sittiparus castaneoventris,台湾杂色山雀,Chestnut-bellied Tit,
+0744,0854#,雀形目,PASSERIFORMES,山雀科,Paridae,Poecile superciliosus,白眉山雀,White-browed Tit,LC
+0745,0855#,雀形目,PASSERIFORMES,山雀科,Paridae,Poecile davidi,红腹山雀,Rusty-breasted Tit,LC
+0746,0852#,雀形目,PASSERIFORMES,山雀科,Paridae,Poecile palustris,沼泽山雀,Marsh Tit,LC
+0747,     ,雀形目,PASSERIFORMES,山雀科,Paridae,Poecile hypermelaenus,黑喉山雀,Black-bibbed Tit,LC
+0748,0853#,雀形目,PASSERIFORMES,山雀科,Paridae,Poecile montanus,褐头山雀,Willow Tit,LC
+0749,     ,雀形目,PASSERIFORMES,山雀科,Paridae,Poecile weigoldicus,川褐头山雀,Sichuan Tit,
+0750,867&8,雀形目,PASSERIFORMES,山雀科,Paridae,8 Cyanistes cyanus,灰蓝山雀,Azure Tit,LC
+0751,0639#,雀形目,PASSERIFORMES,山雀科,Paridae,Pseudopodoces humilis,地山雀,Ground Tit,LC
+0752,0862#,雀形目,PASSERIFORMES,山雀科,Paridae,Parus major,大山雀,Great Tit,LC
+0753,     ,雀形目,PASSERIFORMES,山雀科,Paridae,Parus minor,远东山雀,Japanese Tit,
+0754,     ,雀形目,PASSERIFORMES,山雀科,Paridae,Parus cinereus,苍背山雀,Cinereous Tit,
+0755,0864#,雀形目,PASSERIFORMES,山雀科,Paridae,Parus monticolus,绿背山雀,Green-backed Tit,LC
+0756,0866#,雀形目,PASSERIFORMES,山雀科,Paridae,Machlolophus holsti,台湾黄山雀,Yellow Tit,NT
+0757,     ,雀形目,PASSERIFORMES,山雀科,Paridae,Machlolophus xanthogenys,眼纹黄山雀,Himalayan Black-lored Tit,LC
+0758,0865#,雀形目,PASSERIFORMES,山雀科,Paridae,Machlolophus spilonotus,黄颊山雀,Yellow-cheeked Tit,LC
+0759,0849#,雀形目,PASSERIFORMES,攀雀科,Remizidae,Remiz coronatus,白冠攀雀,White-crowned Penduline Tit,LC
+0760,0850#,雀形目,PASSERIFORMES,攀雀科,Remizidae,Remiz consobrinus,中华攀雀,Chinese Penduline Tit,LC
+0761,1137#,雀形目,PASSERIFORMES,文须雀科,Panuridae,Panurus biarmicus,文须雀,Bearded Reedling,LC
+0762,1162#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Mirafra javanica,歌百灵,Australasian Bush Lark,LC
+0763,     ,雀形目,PASSERIFORMES,百灵科,Alaudidae,Melanocorypha calandra,草原百灵,Calandra Lark,LC
+0764,1163#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Melanocorypha bimaculata,二斑百灵,Bimaculated Lark,LC
+0765,1165#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Melanocorypha mongolica,蒙古百灵,Mongolian Lark,LC
+0766,1164#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Melanocorypha maxima,长嘴百灵,Tibetan Lark,LC
+0767,1166#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Melanocorypha leucoptera,白翅百灵,White-winged Lark,LC
+0768,1167#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Melanocorypha yeltoniensis,黑百灵,Black Lark,LC
+0769,1168#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Calandrella brachydactyla,大短趾百灵,Greater Short-toed Lark,LC
+0770,1169#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Calandrella acutirostris,细嘴短趾百灵,Hume's Short-toed Lark,LC
+0771,1170#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Calandrella cheleensis,亚洲短趾百灵,Asian Short-toed Lark,LC
+0772,1171#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Galerida cristata,凤头百灵,Crested Lark,LC
+0773,1172#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Alauda arvensis,云雀,Eurasian Skylark,LC
+0774,1173#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Alauda japonica,日本云雀,Japanese Skylark,LC
+0775,1174#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Alauda gulgula,小云雀,Oriental Skylark,LC
+0776,1175#,雀形目,PASSERIFORMES,百灵科,Alaudidae,Eremophila alpestris,角百灵,Horned Lark,LC
+0777,0891#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Spizixos canifrons,凤头雀嘴鹎,Crested Finchbill,LC
+0778,0892#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Spizixos semitorques,领雀嘴鹎,Collared Finchbill,LC
+0779,0893#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus striatus,纵纹绿鹎,Striated Bulbul,LC
+0780,0894#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus atriceps,黑头鹎,Black-headed Bulbul,LC
+0781,0895#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus flaviventris,黑冠黄鹎,Black-crested Bulbul,LC
+0782,0896#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus jocosus,红耳鹎,Red-whiskered Bulbul,LC
+0783,0897#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus xanthorrhous,黄臀鹎,Brown-breasted Bulbul,LC
+0784,0898#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus sinensis,白头鹎,Light-vented Bulbul,LC
+0785,0899#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus taivanus,台湾鹎,Styan's Bulbul,VU
+0786,0900#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus leucogenys,白颊鹎,Himalayan Bulbul,LC
+0787,0901#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus cafer,黑喉红臀鹎,Red-vented Bulbul,LC
+0788,0902#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus aurigaster,白喉红臀鹎,Sooty-headed Bulbul,LC
+0789,0903#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus finlaysoni,纹喉鹎,Stripe-throated Bulbul,LC
+0790,0904#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Pycnonotus flavescens,黄绿鹎,Flavescent Bulbul,LC
+0791,0905#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Alophoixus flaveolus,黄腹冠鹎,White-throated Bulbul,LC
+0792,0906#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Alophoixus pallidus,白喉冠鹎,Puff-throated Bulbul,LC
+0793,0907#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Iole propinqua,灰眼短脚鹎,Grey-eyed Bulbul,LC
+0794,0911#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Ixos mcclellandii,绿翅短脚鹎,Mountain Bulbul,LC
+0795,0909#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Hemixos flavala,灰短脚鹎,Ashy Bulbul,LC
+0796,0910#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Hemixos castanonotus,栗背短脚鹎,Chestnut Bulbul,LC
+0797,0912#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Hypsipetes leucocephalus,黑短脚鹎,Black Bulbul,LC
+0798,0908#,雀形目,PASSERIFORMES,鹎科,Pycnonotidae,Hypsipetes amaurotis,栗耳短脚鹎,Brown-eared Bulbul,LC
+0799,0879#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Riparia chinensis,褐喉沙燕,Grey-throated Martin,
+0800,     ,雀形目,PASSERIFORMES,燕科,Hirundinidae,Riparia riparia,崖沙燕,Sand Martin,LC
+0801,0878#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Riparia diluta,淡色沙燕,Pale Martin,
+0802,0882#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Hirundo rustica,家燕,Barn Swallow,LC
+0803,0883#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Hirundo tahitica,洋斑燕,Pacific Swallow,LC
+0804,     ,雀形目,PASSERIFORMES,燕科,Hirundinidae,Hirundo smithii,线尾燕,Wire-tailed Swallow,LC
+0805,0880#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Ptyonoprogne rupestris,岩燕,Eurasian Crag Martin,LC
+0806,0881#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Ptyonoprogne concolor,纯色岩燕,Dusky Crag Martin,LC
+0807,0886#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Delichon urbicum,白腹毛脚燕,Northern House Martin,LC
+0808,0887#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Delichon dasypus,烟腹毛脚燕,Asian House Martin,LC
+0809,0888#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Delichon nipalense,黑喉毛脚燕,Nepal House Martin,LC
+0810,0884#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Cecropis daurica,金腰燕,Red-rumped Swallow,LC
+0811,0885#,雀形目,PASSERIFORMES,燕科,Hirundinidae,Cecropis striolata,斑腰燕,Striated Swallow,
+0812,     ,雀形目,PASSERIFORMES,燕科,Hirundinidae,Petrochelidon fluvicola,黄额燕,Streak-throated Swallow,LC
+0813,1067#,雀形目,PASSERIFORMES,鳞胸鹪鹛科,Pnoepygidae,Pnoepyga albiventer,鳞胸鹪鹛,Scaly-breasted Wren-Babbler,LC
+0814,     ,雀形目,PASSERIFORMES,鳞胸鹪鹛科,Pnoepygidae,Pnoepyga mutica,中华鹪鹛,Chinese Wren-babbler,
+0815,     ,雀形目,PASSERIFORMES,鳞胸鹪鹛科,Pnoepygidae,Pnoepyga formosana,台湾鹪鹛,Taiwan Wren-Babbler,LC
+0816,     ,雀形目,PASSERIFORMES,鳞胸鹪鹛科,Pnoepygidae,Pnoepyga immaculata,尼泊尔鹪鹛,Nepal Wren-Babbler,LC
+0817,1068#,雀形目,PASSERIFORMES,鳞胸鹪鹛科,Pnoepygidae,Pnoepyga pusilla,小鳞胸鹪鹛,Pygmy Wren-Babbler,LC
+0818,1010#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Abroscopus superciliaris,黄腹鹟莺,Yellow-bellied Warbler,LC
+0819,1008#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Abroscopus albogularis,棕脸鹟莺,Rufous-faced Warbler,LC
+0820,1009#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Abroscopus schisticeps,黑脸鹟莺,Black-faced Warbler,LC
+0821,0967#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Phyllergates cuculatus,金头缝叶莺,Mountain Tailorbird,LC
+0822,1007#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Tickellia hodgsoni,宽嘴鹟莺,Broad-billed Warbler,LC
+0823,0932#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Horornis diphone,日本树莺,Japanese Bush Warbler,LC
+0824,0931#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Horornis borealis,远东树莺,Manchurian Bush Warbler,
+0825,0933#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Horornis fortipes,强脚树莺,Brownish-flanked Bush Warbler,LC
+0826,     ,雀形目,PASSERIFORMES,树莺科,Cettiidae,Horornis brunnescens,休氏树莺,Hume's Bush Warbler,LC
+0827,0936#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Horornis acanthizoides,黄腹树莺,Yellowish-bellied Bush Warbler,LC
+0828,0935#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Horornis flavolivaceus,异色树莺,Aberrant Bush Warbler,LC
+0829,0928#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Tesia cyaniventer,灰腹地莺,Grey-bellied Tesia,LC
+0830,0927#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Tesia olivea,金冠地莺,Slaty-bellied Tesia,LC
+0831,0938#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Cettia cetti,宽尾树莺,Cetti's Warbler,LC
+0832,0934#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Cettia major,大树莺,Chestnut-crowned Bush Warbler,LC
+0833,0937#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Cettia brunnifrons,棕顶树莺,Grey-sided Bush Warbler,LC
+0834,0926#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Cettia castaneocoronata,栗头地莺,Chestnut-headed Tesia,LC
+0835,0929#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Urosphena squameiceps,鳞头树莺,Asian Stubtail,LC
+0836,0930#,雀形目,PASSERIFORMES,树莺科,Cettiidae,Urosphena  pallidipes,淡脚树莺,Pale-footed Bush Warbler,LC
+0837,     ,雀形目,PASSERIFORMES,长尾山雀科,Aegithalidae,Aegithalos caudatus,北长尾山雀,Long-tailed Tit,LC
+0838,0872#,雀形目,PASSERIFORMES,长尾山雀科,Aegithalidae,Aegithalos glaucogularis,银喉长尾山雀,Silver-throated Bushtit,
+0839,0873#,雀形目,PASSERIFORMES,长尾山雀科,Aegithalidae,Aegithalos concinnus,红头长尾山雀,Black-throated Bushtit,LC
+0840,0874#,雀形目,PASSERIFORMES,长尾山雀科,Aegithalidae,Aegithalos iouschistos,棕额长尾山雀,Rufous-fronted Bushtit,LC
+0841,0875#,雀形目,PASSERIFORMES,长尾山雀科,Aegithalidae,Aegithalos bonvaloti,黑眉长尾山雀,Black-browed Bushtit,
+0842,0876#,雀形目,PASSERIFORMES,长尾山雀科,Aegithalidae,Aegithalos fuliginosus,银脸长尾山雀,Sooty Bushtit,LC
+0843,0970#,雀形目,PASSERIFORMES,长尾山雀科,Aegithalidae,Leptopoecile sophiae,花彩雀莺,White-browed Tit Warbler,LC
+0844,0971#,雀形目,PASSERIFORMES,长尾山雀科,Aegithalidae,Leptopoecile elegans,凤头雀莺,Crested Tit Warbler,LC
+0845,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus trochilus,欧柳莺,Willow Warbler,LC
+0846,0972#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus collybita,叽喳柳莺,Common Chiffchaff,LC
+0847,0973#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus sindianus,东方叽喳柳莺,Mountain Chiffchaff,LC
+0848,0974#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus sibilatrix,林柳莺,Wood Warbler,LC
+0849,0975#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus fuscatus,褐柳莺,Dusky Warbler,LC
+0850,0976#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus fuligiventer,烟柳莺,Smoky Warbler,LC
+0851,0977#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus affinis,黄腹柳莺,Tickell's Leaf Warbler,LC
+0852,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus occisinensis,华西柳莺,Alpine Leaf Warbler,
+0853,0978#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus subaffinis,棕腹柳莺,Buff-throated Warbler,LC
+0854,0979#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus griseolus,灰柳莺,Sulphur-bellied Warbler,LC
+0855,0980#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus armandii,棕眉柳莺,Yellow-streaked Warbler,LC
+0856,0981#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus schwarzi,巨嘴柳莺,Radde's Warbler,LC
+0857,0982#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus pulcher,橙斑翅柳莺,Buff-barred Warbler,LC
+0858,0983#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus maculipennis,灰喉柳莺,Ashy-throated Warbler,LC
+0859,0986#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus kansuensis,甘肃柳莺,Gansu Leaf Warbler,LC
+0860,0987#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus yunnanensis,云南柳莺,Chinese Leaf Warbler,LC
+0861,0984#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus proregulus,黄腰柳莺,Pallas's Leaf Warbler,LC
+0862,0985#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus chloronotus,淡黄腰柳莺,Lemon-rumped Warbler,LC
+0863,0988#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus inornatus,黄眉柳莺,Yellow-browed Warbler,LC
+0864,0989#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus humei,淡眉柳莺,Hume's Leaf Warbler,LC
+0865,0990#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus borealis,极北柳莺,Arctic Warbler,LC
+0866,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus examinandus,堪察加柳莺,Kamchatka Leaf Warbler,
+0867,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus xanthodryas,日本柳莺,Japanese Leaf Warbler,
+0868,0991#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus trochiloides,暗绿柳莺,Greenish Warbler,LC
+0869,0992#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus plumbeitarsus,双斑绿柳莺,Two-barred Warbler,
+0870,0993#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus tenellipes,淡脚柳莺,Pale-legged Warbler,LC
+0871,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus borealoides,库页岛柳莺,Sakhalin Leaf Warbler,LC
+0872,0994#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus magnirostris,乌嘴柳莺,Large-billed Leaf Warbler,LC
+0873,0995#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus coronatus,冕柳莺,Eastern Crowned Warbler,LC
+0874,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus ijimae,饭岛柳莺,Ijima's Leaf Warbler,VU
+0875,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus reguloides,西南冠纹柳莺,Blyth's Leaf Warbler,LC
+0876,0997#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus claudiae,冠纹柳莺,Claudia's Leaf Warbler,LC
+0877,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus goodsoni,华南冠纹柳莺,Hartert's Leaf Warbler,LC
+0878,0996#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus emeiensis,峨眉柳莺,Emei Leaf Warbler,LC
+0879,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus davisoni,云南白斑尾柳莺,Davison's Leaf Warbler,LC
+0880,0998#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus ogilviegranti,白斑尾柳莺,Kloss's Leaf Warbler,LC
+0881,0999#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus hainanus,海南柳莺,Hainan Leaf Warbler,VU
+0882,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus forresti,四川柳莺,Sichuan Leaf Warbler,LC
+0883,1000#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus cantator,黄胸柳莺,Yellow-vented Warbler,LC
+0884,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus calciatilis,灰岩柳莺,Limestone Leaf Warbler,
+0885,1001#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus ricketti,黑眉柳莺,Sulphur-breasted Warbler,LC
+0886,1003#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Phylloscopus xanthoschistos,灰头柳莺,Grey-hooded Warbler,LC
+0887,1004#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Seicercus affinis,白眶鹟莺,White-spectacled Warbler,LC
+0888,1002#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Seicercus burkii,金眶鹟莺,Green-crowned Warbler,LC
+0889,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Seicercus tephrocephalus,灰冠鹟莺,Grey-crowned Warbler,LC
+0890,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Seicercus whistleri,韦氏鹟莺,Whistler's Warbler,LC
+0891,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Seicercus valentini,比氏鹟莺,Bianchi's Warbler,LC
+0892,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Seicercus omeiensis,峨眉鹟莺,Martens's Warbler,LC
+0893,     ,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Seicercus soror,淡尾鹟莺,Plain-tailed Warbler,LC
+0894,1005#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Seicercus poliogenys,灰脸鹟莺,Grey-cheeked Warbler,LC
+0895,1006#,雀形目,PASSERIFORMES,柳莺科,Phylloscopidae,Seicercus castaniceps,栗头鹟莺,Chestnut-crowned Warbler,LC
+0896,0960#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus arundinaceus,大苇莺,Great Reed Warbler,LC
+0897,0961#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus orientalis,东方大苇莺,Oriental Reed Warbler,
+0898,0962#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus stentoreus,噪大苇莺,Clamorous Reed Warbler,LC
+0899,0954#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus bistrigiceps,黑眉苇莺,Black-browed Reed Warbler,LC
+0900,0952#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus schoenobaenus,水蒲苇莺,Sedge Warbler,LC
+0901,0953#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus sorghophilus,细纹苇莺,Streaked Reed Warbler,EN
+0902,0957#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus concinens,钝翅苇莺,Blunt-winged Warbler,LC
+0903,0956#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus tangorum,远东苇莺,Manchurian Reed Warbler,VU
+0904,0955#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus agricola,稻田苇莺,Paddyfield Warbler,LC
+0905,0959#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus dumetorum,布氏苇莺,Blyth's Reed Warbler,LC
+0906,0958#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Acrocephalus scirpaceus,芦苇莺,Eurasian Reed Warbler,LC
+0907,0963#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Iduna aedon,厚嘴苇莺,Thick-billed Warbler,LC
+0908,0964#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Iduna caligata,靴篱莺,Booted Warbler,LC
+0909,0965#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Iduna rama,赛氏篱莺,Sykes's Warbler,LC
+0910,0966#,雀形目,PASSERIFORMES,苇莺科,Acrocephalidae,Iduna pallida,草绿篱莺,Eastern Olivaceous Warbler,LC
+0911,0943#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella mandelli,高山短翅莺,Russet Bush Warbler,LC
+0912,     ,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella alishanensis,台湾短翅莺,Taiwan Bush Warbler,LC
+0913,     ,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella chengi,四川短翅莺,Sichuan Bush Warbler,
+0914,     ,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella thoracica,斑胸短翅莺,Spotted Bush Warbler,LC
+0915,0939#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella davidi,北短翅莺,Baikal Bush Warbler,LC
+0916,0945#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella naevia,黑斑蝗莺,Common Grasshopper Warbler,LC
+0917,0940#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella major,巨嘴短翅莺,Long-billed Bush Warbler,NT
+0918,0941#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella tacsanowskia,中华短翅莺,Chinese Bush Warbler,LC
+0919,0942#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella luteoventris,棕褐短翅莺,Brown Bush Warbler,LC
+0920,0949#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella luscinioides,鸲蝗莺,Savi's Warbler,LC
+0921,0944#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella lanceolata,矛斑蝗莺,Lanceolated Warbler,LC
+0922,0947#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella ochotensis,北蝗莺,Middendorff's Grasshopper Warbler,LC
+0923,0948#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella pleskei,史氏蝗莺,Styan's Grasshopper Warbler,VU
+0924,0946#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella certhiola,小蝗莺,Pallas's Grasshopper Warbler,LC
+0925,0951#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella pryeri,斑背大尾莺,Marsh Grassbird,NT
+0926,0950#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella fasciolata,苍眉蝗莺,Gray's Grasshopper Warbler,LC
+0927,     ,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Locustella amnicola,库页岛蝗莺,Sakhalin Grasshopper Warbler,
+0928,1011#,雀形目,PASSERIFORMES,短翅莺科,Locustellidae,Megalurus palustris,沼泽大尾莺,Striated Grassbird,LC
+0929,0913#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Cisticola juncidis,棕扇尾莺,Zitting Cisticola,LC
+0930,0914#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Cisticola exilis,金头扇尾莺,Golden-headed Cisticola,LC
+0931,0916#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Prinia crinigera,山鹪莺,Striated Prinia,LC
+0932,0917#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Prinia polychroa,褐山鹪莺,Brown Prinia,LC
+0933,0918#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Prinia atrogularis,黑胸山鹪莺,Black-throated Prinia,LC
+0934,     ,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Prinia superciliaris,黑喉山鹪莺,Hill Prinia,
+0935,0919#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Prinia rufescens,暗冕山鹪莺,Rufescent Prinia,LC
+0936,0920#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Prinia hodgsonii,灰胸山鹪莺,Grey-breasted Prinia,LC
+0937,0921#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Prinia flaviventris,黄腹山鹪莺,Yellow-bellied Prinia,LC
+0938,0922#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Prinia inornata,纯色山鹪莺,Plain Prinia,LC
+0939,0968#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Orthotomus sutorius,长尾缝叶莺,Common Tailorbird,LC
+0940,0969#,雀形目,PASSERIFORMES,扇尾莺科,Cisticolidae,Orthotomus atrogularis,黑喉缝叶莺,Dark-necked Tailorbird,LC
+0941,1072#,雀形目,PASSERIFORMES,丽星鹩鹛科,Elachuridae,Elachura formosus,丽星鹩鹛,Spotted Wren-Babbler,LC
+0942,1055#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus hypoleucos,长嘴钩嘴鹛,Large Scimitar Babbler,LC
+0943,1057#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus erythrogenys,锈脸钩嘴鹛,Rusty-cheeked Scimitar Babbler,LC
+0944,     ,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus erythrocnemis,台湾斑胸钩嘴鹛,Black-necklaced Scimitar Babbler,LC
+0945,1056#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus gravivox,斑胸钩嘴鹛,Black-streaked Scimitar Babbler,LC
+0946,     ,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus swinhoei,华南斑胸钩嘴鹛,Grey-sided Scimitar Babbler,LC
+0947,1059#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus ruficollis,棕颈钩嘴鹛,Streak-breasted Scimitar Babbler,LC
+0948,     ,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus musicus,台湾棕颈钩嘴鹛,Taiwan Scimitar Babbler,LC
+0949,1060#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus ochraceiceps,棕头钩嘴鹛,Red-billed Scimitar Babbler,LC
+0950,1061#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus ferruginosus,红嘴钩嘴鹛,Coral-billed Scimitar Babbler,LC
+0951,1062#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Pomatorhinus superciliaris,剑嘴鹛,Slender-billed Scimitar Babbler,LC
+0952,1071#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Spelaeornis troglodytoides,斑翅鹩鹛,Bar-winged Wren-Babbler,LC
+0953,1073#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Spelaeornis reptatus,长尾鹩鹛,Long-tailed Wren-Babbler,LC
+0954,     ,雀形目,PASSERIFORMES,鹛科,Timaliidae,Spelaeornis kinneari,淡喉鹩鹛,Pale-throated Wren-Babbler,VU
+0955,     ,雀形目,PASSERIFORMES,鹛科,Timaliidae,Sphenocichla humei,黑胸楔嘴鹩鹛,Sikkim Wedge-billed Babbler,NT
+0956,1074#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Sphenocichla roberti,楔嘴鹩鹛,Cachar Wedge-billed Wren-Babbler,NT
+0957,     ,雀形目,PASSERIFORMES,鹛科,Timaliidae,Stachyris nonggangensis,弄岗穗鹛,Nonggang Babbler,VU
+0958,1078#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Stachyris nigriceps,黑头穗鹛,Grey-throated Babbler,LC
+0959,1079#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Stachyris strialata,斑颈穗鹛,Spot-necked Babbler,LC
+0960,1075#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Stachyridopsis ambigua,黄喉穗鹛,Buff-chested Babbler,LC
+0961,1076#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Stachyridopsis ruficeps,红头穗鹛,Rufous-capped Babbler,LC
+0962,     ,雀形目,PASSERIFORMES,鹛科,Timaliidae,Stachyridopsis pyrrhops,黑颏穗鹛,Black-chinned Babbler,LC
+0963,1077#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Stachyridopsis chrysaea,金头穗鹛,Golden Babbler,LC
+0964,1080#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Macronus gularis,纹胸巨鹛,Striped Tit-Babbler,LC
+0965,1081#,雀形目,PASSERIFORMES,鹛科,Timaliidae,Timalia pileata,红顶鹛,Chestnut-capped Babbler,LC
+0966,1106#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe variegaticeps,金额雀鹛,Golden-fronted Fulvetta,VU
+0967,1107#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe cinerea,黄喉雀鹛,Yellow-throated Fulvetta,LC
+0968,1108#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe castaneceps,栗头雀鹛,Rufous-winged Fulvetta,LC
+0969,1114#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe rufogularis,棕喉雀鹛,Rufous-throated Fulvetta,LC
+0970,1116#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe dubia,褐胁雀鹛,Rusty-capped Fulvetta,LC
+0971,1115#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe brunnea,褐顶雀鹛,Dusky Fulvetta,LC
+0972,1117#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe poioicephala,褐脸雀鹛,Brown-cheeked Fulvetta,LC
+0973,1118#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe morrisonia,台湾雀鹛,Grey-cheeked Fulvetta,LC
+0974,     ,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe davidi,灰眶雀鹛,David's Fulvetta,
+0975,     ,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe fratercula,云南雀鹛,Yunnan Fulvetta,
+0976,     ,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe hueti,淡眉雀鹛,Huet's Fulvetta,
+0977,1119#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Alcippe nipalensis,白眶雀鹛,Nepal Fulvetta,LC
+0978,1064#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Napothera crispifrons,灰岩鹪鹛,Limestone Wren-Babbler,LC
+0979,1065#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Napothera brevicaudata,短尾鹪鹛,Streaked Wren-Babbler,LC
+0980,1066#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Napothera epilepidota,纹胸鹪鹛,Eyebrowed Wren-Babbler,LC
+0981,1095#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Gampsorhynchus rufulus,白头鵙鹛,White-hooded Babbler,LC
+0982,     ,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Gampsorhynchus torquatus,领鵙鹛,Collared Babbler,LC
+0983,     ,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Jabouilleia naungmungensis,瑙蒙短尾鹛,Naung Mung Scimitar Babbler,
+0984,1063#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Rimator malacoptilus,长嘴鹩鹛,Long-billed Wren-Babbler,LC
+0985,1012#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Graminicola striatus,大草莺,Chinese Grassbird,
+0986,1053#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Pellorneum albiventre,白腹幽鹛,Spot-throated Babbler,LC
+0987,1054#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Pellorneum ruficeps,棕头幽鹛,Puff-throated Babbler,LC
+0988,1052#,雀形目,PASSERIFORMES,幽鹛科,Pellorneidae,Pellorneum tickelli,棕胸雅鹛,Buff-breasted Babbler,LC
+0989,1084#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Babax lanceolatus,矛纹草鹛,Chinese Babax,LC
+0990,1085#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Babax waddelli,大草鹛,Giant Babax,NT
+0991,1086#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Babax koslowi,棕草鹛,Tibetan Babax,NT
+0992,1036#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax canorus,画眉,Hwamei,LC
+0993,     ,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax taewanus,台湾画眉,Taiwan Hwamei,NT
+0994,1015#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax leucolophus,白冠噪鹛,White-crested Laughingthrush,LC
+0995,1019#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax strepitans,白颈噪鹛,White-necked Laughingthrush,LC
+0996,1020#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax maesi,褐胸噪鹛,Grey Laughingthrush,LC
+0997,     ,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax castanotis,栗颊噪鹛,Rufous-cheeked Laughingthrush,LC
+0998,1026#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax sukatschewi,黑额山噪鹛,Snowy-cheeked Laughingthrush,VU
+0999,1027#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax cineraceus,灰翅噪鹛,Moustached Laughingthrush,LC
+1000,1028#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax rufogularis,棕颏噪鹛,Rufous-chinned Laughingthrush,LC
+1001,1029#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax lunulatus,斑背噪鹛,Barred Laughingthrush,LC
+1002,1030#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax bieti,白点噪鹛,White-speckled Laughingthrush,VU
+1003,1031#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax maximus,大噪鹛,Giant Laughingthrush,LC
+1004,1032#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax ocellatus,眼纹噪鹛,Spotted Laughingthrush,LC
+1005,1013#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax perspicillatus,黑脸噪鹛,Masked Laughingthrush,LC
+1006,1014#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax albogularis,白喉噪鹛,White-throated Laughingthrush,LC
+1007,     ,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax ruficeps,台湾白喉噪鹛,Rufous-crowned Laughingthrush,LC
+1008,1016#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax monileger,小黑领噪鹛,Lesser Necklaced Laughingthrush,LC
+1009,1017#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax pectoralis,黑领噪鹛,Greater Necklaced Laughingthrush,LC
+1010,1022#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax chinensis,黑喉噪鹛,Black-throated Laughingthrush,LC
+1011,1021#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax ruficollis,栗颈噪鹛,Rufous-necked Laughingthrush,LC
+1012,     ,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax galbanus,黄喉噪鹛,Yellow-throated Laughingthrush,LC
+1013,1023#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax courtoisi,靛冠噪鹛,Blue-crowned Laughingthrush,CR
+1014,1024#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax gularis,棕臀噪鹛,Rufous-vented Laughingthrush,LC
+1015,1025#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax davidi,山噪鹛,Plain Laughingthrush,LC
+1016,1033#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax caerulatus,灰胁噪鹛,Grey-sided Laughingthrush,LC
+1017,     ,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax poecilorhynchus,台湾棕噪鹛,Rusty Laughingthrush,LC
+1018,1034#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax berthemyi,棕噪鹛,Rufous Laughingthrush,LC
+1019,1037#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax sannio,白颊噪鹛,White-browed Laughingthrush,LC
+1020,1035#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax merulinus,斑胸噪鹛,Spot-breasted Laughingthrush,LC
+1021,1018#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Garrulax striatus,条纹噪鹛,Striated Laughingthrush,LC
+1022,1038#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron lineatum,细纹噪鹛,Streaked Laughingthrush,LC
+1023,     ,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron imbricata,丽星噪鹛,Bhutan Laughingthrush,LC
+1024,1039#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron squamatum,蓝翅噪鹛,Blue-winged Laughingthrush,LC
+1025,1040#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron subunicolor,纯色噪鹛,Scaly Laughingthrush,LC
+1026,1041#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron elliotii,橙翅噪鹛,Elliot's Laughingthrush,LC
+1027,1043#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron henrici,灰腹噪鹛,Brown-cheeked Laughingthrush,LC
+1028,1044#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron affine,黑顶噪鹛,Black-faced Laughingthrush,LC
+1029,1045#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron morrisonianum,玉山噪鹛,White-whiskered Laughingthrush,LC
+1030,1042#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron variegatum,杂色噪鹛,Variegated Laughingthrush,LC
+1031,1046#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron erythrocephalum,红头噪鹛,Chestnut-crowned Laughingthrush,LC
+1032,     ,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron chrysopterum,金翅噪鹛,Assam Laughingthrush,LC
+1033,     ,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron melanostigma,银耳噪鹛,Silver-eared Laughingthrush,LC
+1034,1047#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron formosum,丽色噪鹛,Red-winged Laughingthrush,LC
+1035,1048#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Trochalopteron milnei,赤尾噪鹛,Red-tailed Laughingthrush,LC
+1036,1089#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Cutia nipalensis,斑胁姬鹛,Himalayan Cutia,LC
+1037,1102#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Minla cyanouroptera,蓝翅希鹛,Blue-winged Minla,LC
+1038,1103#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Minla strigula,斑喉希鹛,Bar-throated Minla,LC
+1039,1104#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Minla ignotincta,火尾希鹛,Red-tailed Minla,LC
+1040,1049#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Liocichla phoenicea,赤脸薮鹛,Red-faced Liocichla,LC
+1041,     ,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Liocichla ripponi,红翅薮鹛,Scarlet-faced Liocichla
+1042,1050#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Liocichla omeiensis,灰胸薮鹛,Emei Shan Liocichla,VU
+1043,1051#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Liocichla steerii,黄痣薮鹛,Steere's Liocichla,LC
+1044,1096#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Actinodura egertoni,锈额斑翅鹛,Rusty-fronted Barwing,LC
+1045,1097#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Actinodura ramsayi,白眶斑翅鹛,Spectacled Barwing,LC
+1046,1098#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Actinodura nipalensis,纹头斑翅鹛,Hoary-throated Barwing,LC
+1047,1099#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Actinodura waldeni,纹胸斑翅鹛,Streak-throated Barwing,LC
+1048,1100#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Actinodura souliei,灰头斑翅鹛,Streaked Barwing,LC
+1049,1101#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Actinodura morrisoniana,台湾斑翅鹛,Taiwan Barwing,LC
+1050,1087#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Leiothrix argentauris,银耳相思鸟,Silver-eared Mesia,LC
+1051,1088#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Leiothrix lutea,红嘴相思鸟,Red-billed Leiothrix,LC
+1052,1120#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Heterophasia annectans,栗背奇鹛,Rufous-backed Sibia,LC
+1053,1121#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Heterophasia capistrata,黑顶奇鹛,Rufous Sibia,LC
+1054,1122#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Heterophasia gracilis,灰奇鹛,Grey Sibia,LC
+1055,1123#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Heterophasia desgodinsi,黑头奇鹛,Black-headed Sibia,LC
+1056,1124#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Heterophasia auricularis,白耳奇鹛,White-eared Sibia,LC
+1057,1125#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Heterophasia pulchella,丽色奇鹛,Beautiful Sibia,LC
+1058,1126#,雀形目,PASSERIFORMES,噪鹛科,Leiothrichidae,Heterophasia picaoides,长尾奇鹛,Long-tailed Sibia,LC
+1059,1136#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Myzornis pyrrhoura,火尾绿鹛,Fire-tailed Myzornis,LC
+1060,     ,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sylvia atricapilla,黑顶林莺,Eurasian Blackcap,LC
+1061,1161#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sylvia nisoria,横斑林莺,Barred Warbler,LC
+1062,1158#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sylvia curruca,白喉林莺,Lesser Whitethroat,LC
+1063,1159#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sylvia minula,沙白喉林莺,Desert Whitethroat,LC
+1064,     ,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sylvia althaea,休氏白喉林莺,Hume's Whitethroat,LC
+1065,     ,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sylvia crassirostris,东歌林莺,Eastern Orphean Warbler
+1066,1160#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sylvia nana,亚洲漠地林莺,Asian Desert Warbler,LC
+1067,1157#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sylvia communis,灰白喉林莺,Common Whitethroat,LC
+1068,1105#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Lioparus chrysotis,金胸雀鹛,Golden-breasted Fulvetta,LC
+1069,1083#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Moupinia poecilotis,宝兴鹛雀,Rufous-tailed Babbler,LC
+1070,1109#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Fulvetta vinipectus,白眉雀鹛,White-browed Fulvetta,LC
+1071,1110#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Fulvetta striaticollis,高山雀鹛,Chinese Fulvetta,LC
+1072,1111#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Fulvetta ruficapilla,棕头雀鹛,Spectacled Fulvetta,LC
+1073,1113#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Fulvetta ludlowi,路德雀鹛,Ludlow's Fulvetta,LC
+1074,1112#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Fulvetta cinereiceps,灰头雀鹛,Grey-hooded Fulvetta,LC
+1075,     ,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Fulvetta manipurensis,褐头雀鹛,Streak-throated Fulvetta,LC
+1076,     ,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Fulvetta formosana,玉山雀鹛,Taiwan Fulvetta,LC
+1077,1082#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Chrysomma sinense,金眼鹛雀,Yellow-eyed Babbler,LC
+1078,0915#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Rhopophilus pekinensis,山鹛,Beijing Hill Babbler,LC
+1079,     ,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Rhopophilus albosuperciliaris,西域山鹛,Tarim Babbler
+1080,1138#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Conostoma aemodium,红嘴鸦雀,Great Parrotbill,LC
+1081,1139#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Cholornis paradoxa,三趾鸦雀,Three-toed Parrotbill,LC
+1082,1140#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Cholornis unicolor,褐鸦雀,Brown Parrotbill,LC
+1083,1144#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sinosuthora conspicillata,白眶鸦雀,Spectacled Parrotbill,LC
+1084,1145#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sinosuthora webbiana,棕头鸦雀,Vinous-throated Parrotbill,LC
+1085,1147#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sinosuthora alphonsiana,灰喉鸦雀,Ashy-throated Parrotbill,LC
+1086,1146#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sinosuthora brunnea,褐翅鸦雀,Brown-winged Parrotbill,LC
+1087,1148#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sinosuthora zappeyi,暗色鸦雀,Grey-hooded Parrotbill,VU
+1088,1149#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Sinosuthora przewalskii,灰冠鸦雀,Rusty-throated Parrotbill,VU
+1089,1150#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Suthora fulvifrons,黄额鸦雀,Fulvous Parrotbill,LC
+1090,1151#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Suthora nipalensis,橙额鸦雀,Black-throated Parrotbill,LC
+1091,1152#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Suthora verreauxi,金色鸦雀,Golden Parrotbill,LC
+1092,1153#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Neosuthora davidiana,短尾鸦雀,Short-tailed Parrotbill,LC
+1093,1154#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Chleuasicus atrosuperciliaris,黑眉鸦雀,Lesser Rufous-headed Parrotbill,LC
+1094,     ,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Psittiparus ruficeps,白胸鸦雀,White-breasted Parrotbill,LC
+1095,1155#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Psittiparus bakeri,红头鸦雀,Rufous-headed Parrotbill
+1096,1141#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Psittiparus gularis,灰头鸦雀,Grey-headed Parrotbill,LC
+1097,1143#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Paradoxornis guttaticollis,点胸鸦雀,Spot-breasted Parrotbill,LC
+1098,1156#,雀形目,PASSERIFORMES,莺鹛科,Sylviidae,Paradoxornis heudei,震旦鸦雀,Reed Parrotbill,NT
+1099,1127#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Yuhina castaniceps,栗耳凤鹛,Striated Yuhina,LC
+1100,     ,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Yuhina torqueola,栗颈凤鹛,Chestnut-collared Yuhina,LC
+1101,1128#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Yuhina bakeri,白项凤鹛,White-naped Yuhina,LC
+1102,1129#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Yuhina flavicollis,黄颈凤鹛,Whiskered Yuhina,LC
+1103,1130#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Yuhina gularis,纹喉凤鹛,Stripe-throated Yuhina,LC
+1104,1131#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Yuhina diademata,白领凤鹛,White-collared Yuhina,LC
+1105,1132#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Yuhina occipitalis,棕臀凤鹛,Rufous-vented Yuhina,LC
+1106,1133#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Yuhina brunneiceps,褐头凤鹛,Taiwan Yuhina,LC
+1107,1134#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Yuhina nigrimenta,黑额凤鹛,Black-chinned Yuhina,LC
+1108,0923#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Zosterops erythropleurus,红胁绣眼鸟,Chestnut-flanked White-eye,LC
+1109,0925#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Zosterops japonicus,暗绿绣眼鸟,Japanese White-eye,LC
+1110,     ,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Zosterops meyeni,低地绣眼鸟,Lowland White-eye,LC
+1111,0924#,雀形目,PASSERIFORMES,绣眼鸟科,Zosteropidae,Zosterops palpebrosus,灰腹绣眼鸟,Oriental White-eye,LC
+1112,0606#,雀形目,PASSERIFORMES,和平鸟科,Irenidae,Irena puella,和平鸟,Asian Fairy Bluebird,LC
+1113,0890#,雀形目,PASSERIFORMES,戴菊科,Regulidae,Regulus goodfellowi,台湾戴菊,Flamecrest,LC
+1114,0889#,雀形目,PASSERIFORMES,戴菊科,Regulidae,Regulus regulus,戴菊,Goldcrest,LC
+1115,0848#,雀形目,PASSERIFORMES,鹪鹩科,Troglodytidae,Troglodytes troglodytes,鹪鹩,Eurasian Wren,LC
+1116,0832#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta europaea,普通䴓,Eurasian Nuthatch,LC
+1117,0833#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta nagaensis,栗臀䴓,Chestnut-vented Nuthatch,LC
+1118,0834#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta cinnamoventris,栗腹䴓,Chestnut-bellied Nuthatch,LC
+1119,0835#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta himalayensis,白尾䴓,White-tailed Nuthatch,LC
+1120,0837#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta yunnanensis,滇䴓,Yunnan Nuthatch,NT
+1121,0836#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta villosa,黑头䴓,Chinese Nuthatch,LC
+1122,0838#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta przewalskii,白脸䴓,Przevalski's Nuthatch
+1123,0839#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta frontalis,绒额䴓,Velvet-fronted Nuthatch,LC
+1124,0840#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta solangiae,淡紫䴓,Yellow-billed Nuthatch,NT
+1125,0841#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta magna,巨䴓,Giant Nuthatch,EN
+1126,0842#,雀形目,PASSERIFORMES,䴓科,Sittidae,Sitta formosa,丽䴓,Beautiful Nuthatch,VU
+1127,0843#,雀形目,PASSERIFORMES,旋壁雀科,Tichodromidae,Tichodroma muraria,红翅旋壁雀,Wallcreeper,LC
+1128,0844#,雀形目,PASSERIFORMES,旋木雀科,Certhiidae,Certhia familiaris,旋木雀,Eurasian Treecreeper,LC
+1129,     ,雀形目,PASSERIFORMES,旋木雀科,Certhiidae,Certhia hodgsoni,霍氏旋木雀,Hodgson's Treecreeper,LC
+1130,0845#,雀形目,PASSERIFORMES,旋木雀科,Certhiidae,Certhia himalayana,高山旋木雀,Bar-tailed Treecreeper,LC
+1131,0846#,雀形目,PASSERIFORMES,旋木雀科,Certhiidae,Certhia nipalensis,锈红腹旋木雀,Rusty-flanked Treecreeper,LC
+1132,0847#,雀形目,PASSERIFORMES,旋木雀科,Certhiidae,Certhia discolor,褐喉旋木雀,Brown-throated Treecreeper,LC
+1133,     ,雀形目,PASSERIFORMES,旋木雀科,Certhiidae,Certhia manipurensis,休氏旋木雀,Hume's Treecreeper,LC
+1134,     ,雀形目,PASSERIFORMES,旋木雀科,Certhiidae,Certhia tianquanensis,四川旋木雀,Sichuan Treecreeper,NT
+1135,     ,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Saroglossa spiloptera,斑翅椋鸟,Spot-winged Starling,LC
+1136,0830#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Ampeliceps coronatus,金冠树八哥,Golden-crested Myna,LC
+1137,0831#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Gracula religiosa,鹩哥,Hill Myna,LC
+1138,0827#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Acridotheres grandis,林八哥,Great Myna,LC
+1139,0829#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Acridotheres cristatellus,八哥,Crested Myna,LC
+1140,0828#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Acridotheres albocinctus,白领八哥,Collared Myna,LC
+1141,0825#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Acridotheres tristis,家八哥,Common Myna,LC
+1142,0824#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Acridotheres burmannicus,红嘴椋鸟,Vinous-breasted Starling,LC
+1143,0815#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Spodiopsar sericeus,丝光椋鸟,Red-billed Starling,LC
+1144,0821#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Spodiopsar cineraceus,灰椋鸟,White-cheeked Starling,LC
+1145,0823#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Gracupica nigricollis,黑领椋鸟,Black-collared Starling,LC
+1146,0822#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Gracupica contra,斑椋鸟,Asian Pied Starling,LC
+1147,0816#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Agropsar sturninus,北椋鸟,Daurian Starling,LC
+1148,0817#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Agropsar philippensis,紫背椋鸟,Chestnut-cheeked Starling,LC
+1149,0818#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Sturnia sinensis,灰背椋鸟,White-shouldered Starling,LC
+1150,0813#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Sturnia malabarica,灰头椋鸟,Chestnut-tailed Starling,LC
+1151,0814#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Sturnia pagodarum,黑冠椋鸟,Brahminy Starling,LC
+1152,0819#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Pastor roseus,粉红椋鸟,Rosy Starling,LC
+1153,0820#,雀形目,PASSERIFORMES,椋鸟科,Sturnidae,Sturnus vulgaris,紫翅椋鸟,Common Starling,LC
+1154,0696#,雀形目,PASSERIFORMES,鸫科,Turdidae,Geokichla citrina,橙头地鸫,Orange-headed Thrush,LC
+1155,0697#,雀形目,PASSERIFORMES,鸫科,Turdidae,Geokichla sibirica,白眉地鸫,Siberian Thrush,LC
+1156,0698#,雀形目,PASSERIFORMES,鸫科,Turdidae,Zoothera mollissima,光背地鸫,Plain-backed Thrush,LC
+1157,0699#,雀形目,PASSERIFORMES,鸫科,Turdidae,Zoothera dixoni,长尾地鸫,Long-tailed Thrush,LC
+1158,0700#,雀形目,PASSERIFORMES,鸫科,Turdidae,Zoothera aurea,怀氏虎鸫,White's Thrush
+1159,     ,雀形目,PASSERIFORMES,鸫科,Turdidae,Zoothera dauma,虎斑地鸫,Scaly Thrush,LC
+1160,     ,雀形目,PASSERIFORMES,鸫科,Turdidae,Zoothera monticola,大长嘴地鸫,Long-billed Thrush,LC
+1161,0701#,雀形目,PASSERIFORMES,鸫科,Turdidae,Zoothera marginata,长嘴地鸫,Dark-sided Thrush,LC
+1162,0702#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus hortulorum,灰背鸫,Grey-backed Thrush,LC
+1163,     ,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus unicolor,梯氏鸫,Tickell's Thrush,LC
+1164,0703#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus dissimilis,黑胸鸫,Black-breasted Thrush,LC
+1165,0704#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus cardis,乌灰鸫,Japanese Thrush,LC
+1166,0705#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus albocinctus,白颈鸫,White-collared Blackbird,LC
+1167,0706#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus boulboul,灰翅鸫,Grey-winged Blackbird,LC
+1168,0707#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus merula,欧乌鸫,Common Blackbird,LC
+1169,     ,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus mandarinus,乌鸫,Chinese Blackbird
+1170,     ,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus maximus,藏鸫,Tibetan Blackbird
+1171,0708#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus poliocephalus,岛鸫,Island Thrush,LC
+1172,0709#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus rubrocanus,灰头鸫,Chestnut Thrush,LC
+1173,0710#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus kessleri,棕背黑头鸫,Kessler's Thrush,LC
+1174,0711#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus feae,褐头鸫,Grey-sided Thrush,VU
+1175,0712#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus obscurus,白眉鸫,Eyebrowed Thrush,LC
+1176,0714#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus pallidus,白腹鸫,Pale Thrush,LC
+1177,0715#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus chrysolaus,赤胸鸫,Brown-headed Thrush,LC
+1178,     ,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus atrogularis,黑颈鸫,Black-throated Thrush
+1179,0716#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus ruficollis,赤颈鸫,Red-throated Thrush,LC
+1180,0717#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus naumanni,红尾鸫,Naumann's Thrush,LC
+1181,     ,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus eunomus,斑鸫,Dusky Thrush
+1182,0718#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus pilaris,田鸫,Fieldfare,LC
+1183,0719#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus iliacus,白眉歌鸫,Redwing,NT
+1184,0720#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus philomelos,欧歌鸫,Song Thrush,LC
+1185,0721#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus mupinensis,宝兴歌鸫,Chinese Thrush,LC
+1186,0713#,雀形目,PASSERIFORMES,鸫科,Turdidae,Turdus viscivorus,槲鸫,Mistle Thrush,LC
+1187,0801#,雀形目,PASSERIFORMES,鸫科,Turdidae,Cochoa purpurea,紫宽嘴鸫,Purple Cochoa,LC
+1188,0802#,雀形目,PASSERIFORMES,鸫科,Turdidae,Cochoa viridis,绿宽嘴鸫,Green Cochoa,LC
+1189,0760#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Erithacus rubecula,欧亚鸲,European Robin,LC
+1190,0761#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Erithacus akahige,日本歌鸲,Japanese Robin,LC
+1191,0762#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Erithacus komadori,琉球歌鸲,Ryukyu Robin,NT
+1192,0722#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Heteroxenicus stellatus,栗背短翅鸫,Gould's Shortwing,LC
+1193,0723#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Brachypteryx hyperythra,锈腹短翅鸫,Rusty-bellied Shortwing,NT
+1194,0724#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Brachypteryx leucophris,白喉短翅鸫,Lesser Shortwing,LC
+1195,0725#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Brachypteryx montana,蓝短翅鸫,White-browed Shortwing,LC
+1196,0767#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia svecica,蓝喉歌鸲,Bluethroat,LC
+1197,0765#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia calliope,红喉歌鸲,Siberian Rubythroat,LC
+1198,0766#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia pectoralis,黑胸歌鸲,White-tailed Rubythroat,LC
+1199,0768#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia ruficeps,棕头歌鸲,Rufous-headed Robin,EN
+1200,0769#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia obscura,黑喉歌鸲,Blackthroat,VU
+1201,0770#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia pectardens,金胸歌鸲,Firethroat,NT
+1202,0771#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia brunnea,栗腹歌鸲,Indian Blue Robin,LC
+1203,0772#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia cyane,蓝歌鸲,Siberian Blue Robin,LC
+1204,0763#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia sibilans,红尾歌鸲,Rufous-tailed Robin,LC
+1205,0764#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Luscinia megarhynchos,新疆歌鸲,Common Nightingale,LC
+1206,0775#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Tarsiger indicus,白眉林鸲,White-browed Bush Robin,LC
+1207,0776#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Tarsiger hyperythrus,棕腹林鸲,Rufous-breasted Bush Robin,LC
+1208,0777#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Tarsiger johnstoniae,台湾林鸲,Collared Bush Robin,LC
+1209,0773#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Tarsiger cyanurus,红胁蓝尾鸲,Orange-flanked Bluetail,LC
+1210,     ,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Tarsiger rufilatus,蓝眉林鸲,Himalayan Bluetail
+1211,0774#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Tarsiger chrysaeus,金色林鸲,Golden Bush Robin,LC
+1212,     ,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cercotrichas galactotes,棕薮鸲,Rufous-tailed Scrub Robin,LC
+1213,0778#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Copsychus saularis,鹊鸲,Oriental Magpie Robin,LC
+1214,0779#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Copsychus malabaricus,白腰鹊鸲,White-rumped Shama,LC
+1215,0780#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus alaschanicus,贺兰山红尾鸲,Ala Shan Redstart,NT
+1216,0781#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus erythronotus,红背红尾鸲,Eversmann's Redstart,LC
+1217,0782#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus coeruleocephala,蓝头红尾鸲,Blue-capped Redstart,LC
+1218,0783#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus ochruros,赭红尾鸲,Black Redstart,LC
+1219,0784#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus phoenicurus,欧亚红尾鸲,Common Redstart,LC
+1220,0785#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus hodgsoni,黑喉红尾鸲,Hodgson's Redstart,LC
+1221,0786#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus schisticeps,白喉红尾鸲,White-throated Redstart,LC
+1222,0787#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus auroreus,北红尾鸲,Daurian Redstart,LC
+1223,0788#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus erythrogastrus,红腹红尾鸲,White-winged Redstart,LC
+1224,0789#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Phoenicurus frontalis,蓝额红尾鸲,Blue-fronted Redstart,LC
+1225,0792#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Hodgsonius phoenicuroides,白腹短翅鸲,White-bellied Redstart,LC
+1226,0791#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Rhyacornis fuliginosa,红尾水鸲,Plumbeous Water Redstart,LC
+1227,0790#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Chaimarrornis leucocephalus,白顶溪鸲,White-capped Water Redstart,LC
+1228,0793#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Myiomela leucura,白尾蓝地鸲,White-tailed Robin,LC
+1229,0794#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cinclidium frontale,蓝额长脚地鸲,Blue-fronted Robin,LC
+1230,0695#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Myophonus insularis,台湾紫啸鸫,Taiwan Whistling Thrush,LC
+1231,0694#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Myophonus caeruleus,紫啸鸫,Blue Whistling Thrush,LC
+1232,0795#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Grandala coelicolor,蓝大翅鸲,Grandala,LC
+1233,0796#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Enicurus scouleri,小燕尾,Little Forktail,LC
+1234,0797#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Enicurus immaculatus,黑背燕尾,Black-backed Forktail,LC
+1235,0798#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Enicurus schistaceus,灰背燕尾,Slaty-backed Forktail,LC
+1236,0799#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Enicurus leschenaulti,白冠燕尾,White-crowned Forktail,LC
+1237,0800#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Enicurus maculatus,斑背燕尾,Spotted Forktail,LC
+1238,0803#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Saxicola insignis,白喉石䳭,White-throated Bushchat,VU
+1239,0804#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Saxicola maurus,黑喉石䳭,Siberian Stonechat
+1240,     ,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Saxicola stejnegeri,东亚石䳭,Stejneger's Stonechat
+1241,0805#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Saxicola caprata,白斑黑石䳭,Pied Bushchat,LC
+1242,0806#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Saxicola jerdoni,黑白林䳭,Jerdon's Bushchat,LC
+1243,0807#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Saxicola ferreus,灰林䳭,Grey Bushchat,LC
+1244,0812#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Oenanthe isabellina,沙䳭,Isabelline Wheatear,LC
+1245,0808#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Oenanthe oenanthe,穗䳭,Northern Wheatear,LC
+1246,0810#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Oenanthe pleschanka,白顶䳭,Pied Wheatear,LC
+1247,0811#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Oenanthe deserti,漠䳭,Desert Wheatear,LC
+1248,0809#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Oenanthe picata,东方斑䳭,Variable Wheatear,LC
+1249,0689#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Monticola saxatilis,白背矶鸫,Rufous-tailed Rock Thrush,LC
+1250,0693#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Monticola solitarius,蓝矶鸫,Blue Rock Thrush,LC
+1251,0692#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Monticola rufiventris,栗腹矶鸫,Chestnut-bellied Rock Thrush,LC
+1252,0691#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Monticola gularis,白喉矶鸫,White-throated Rock Thrush,LC
+1253,0726#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Rhinomyias brunneatus,白喉林鹟,Brown-chested Jungle Flycatcher,VU
+1254,0727#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Muscicapa striata,斑鹟,Spotted Flycatcher,LC
+1255,0728#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Muscicapa griseisticta,灰纹鹟,Grey-streaked Flycatcher,LC
+1256,0729#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Muscicapa sibirica,乌鹟,Dark-sided Flycatcher,LC
+1257,0730#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Muscicapa dauurical,北灰鹟,Asian Brown Flycatcher,LC
+1258,0731#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Muscicapa muttui,褐胸鹟,Brown-breasted Flycatcher,LC
+1259,0732#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Muscicapa ferruginea,棕尾褐鹟,Ferruginous Flycatcher,LC
+1260,     ,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula hypoleuca,斑姬鹟,European Pied Flycatcher,LC
+1261,0733#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula zanthopygia,白眉姬鹟,Yellow-rumped Flycatcher,LC
+1262,0734#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula narcissina,黄眉姬鹟,Narcissus Flycatcher,LC
+1263,     ,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula elisae,绿背姬鹟,Green-backed Flycatcher
+1264,0735#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula mugimaki,鸲姬鹟,Mugimaki Flycatcher,LC
+1265,0736#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula hodgsonii,锈胸蓝姬鹟,Slaty-backed Flycatcher,LC
+1266,0737#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula strophiata,橙胸姬鹟,Rufous-gorgeted Flycatcher,LC
+1267,     ,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula parva,红胸姬鹟,Red-breasted Flycatcher,LC
+1268,0738#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula albicilla,红喉姬鹟,Taiga Flycatcher,LC
+1269,0740#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula hyperythra,棕胸蓝姬鹟,Snowy-browed Flycatcher,LC
+1270,0741#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula westermanni,小斑姬鹟,Little Pied Flycatcher,LC
+1271,0742#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula superciliaris,白眉蓝姬鹟,Ultramarine Flycatcher,LC
+1272,0743#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula tricolor,灰蓝姬鹟,Slaty-blue Flycatcher,LC
+1273,0744#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Ficedula sapphira,玉头姬鹟,Sapphire Flycatcher,LC
+1274,0745#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cyanoptila cyanomelana,白腹蓝鹟,Blue-and-white Flycatcher,LC
+1275,     ,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cyanoptila cumatilis,琉璃蓝鹟,Zappey's Flycatcher
+1276,0746#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Eumyias thalassinus,铜蓝鹟,Verditer Flycatcher,LC
+1277,0753#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cyornis hainanus,海南蓝仙鹟,Hainan Blue Flycatcher,LC
+1278,0755#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cyornis unicolor,纯蓝仙鹟,Pale Blue Flycatcher,LC
+1279,0754#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cyornis poliogenys,灰颊仙鹟,Pale-chinned Flycatcher,LC
+1280,0757#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cyornis banyumas,山蓝仙鹟,Hill Blue Flycatcher,LC
+1281,0756#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cyornis rubeculoides,蓝喉仙鹟,Blue-throated Flycatcher,LC
+1282,     ,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cyornis glaucicomans,中华仙鹟,Chinese Blue Flycatcher
+1283,0752#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Cyornis concretus,白尾蓝仙鹟,White-tailed Flycatcher,LC
+1284,0739#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Anthipes monileger,白喉姬鹟,White-gorgeted Flycatcher,LC
+1285,0749#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Niltava davidi,棕腹大仙鹟,Fujian Niltava,LC
+1286,0750#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Niltava sundara,棕腹仙鹟,Rufous-bellied Niltava,LC
+1287,0751#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Niltava vivida,棕腹蓝仙鹟,Vivid Niltava,LC
+1288,0747#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Niltava grandis,大仙鹟,Large Niltava,LC
+1289,0748#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Niltava macgrigoriae,小仙鹟,Small Niltava,LC
+1290,0758#,雀形目,PASSERIFORMES,鹟科,Muscicapidae,Muscicapella hodgsoni,侏蓝仙鹟,Pygmy Blue Flycatcher,LC
+1291,0687#,雀形目,PASSERIFORMES,河乌科,Cinclidae,Cinclus cinclus,河乌,White-throated Dipper,LC
+1292,0688#,雀形目,PASSERIFORMES,河乌科,Cinclidae,Cinclus pallasii,褐河乌,Brown Dipper,LC
+1293,0607#,雀形目,PASSERIFORMES,叶鹎科,Chloropseidae,Chloropsis cochinchinensis,蓝翅叶鹎,Blue-winged Leafbird,LC
+1294,0608#,雀形目,PASSERIFORMES,叶鹎科,Chloropseidae,Chloropsis aurifrons,金额叶鹎,Golden-fronted Leafbird,LC
+1295,0609#,雀形目,PASSERIFORMES,叶鹎科,Chloropseidae,Chloropsis hardwickii,橙腹叶鹎,Orange-bellied Leafbird,LC
+1296,1176#,雀形目,PASSERIFORMES,啄花鸟科,Dicaeidae,Dicaeum agile,厚嘴啄花鸟,Thick-billed Flowerpecker,LC
+1297,1177#,雀形目,PASSERIFORMES,啄花鸟科,Dicaeidae,Dicaeum chrysorrheum,黄臀啄花鸟,Yellow-vented Flowerpecker,LC
+1298,1178#,雀形目,PASSERIFORMES,啄花鸟科,Dicaeidae,Dicaeum melanoxanthum,黄腹啄花鸟,Yellow-bellied Flowerpecker,LC
+1299,1179#,雀形目,PASSERIFORMES,啄花鸟科,Dicaeidae,Dicaeum minullum,纯色啄花鸟,Plain Flowerpecker,LC
+1300,1180#,雀形目,PASSERIFORMES,啄花鸟科,Dicaeidae,Dicaeum ignipectus,红胸啄花鸟,Fire-breasted Flowerpecker,LC
+1301,1181#,雀形目,PASSERIFORMES,啄花鸟科,Dicaeidae,Dicaeum cruentatum,朱背啄花鸟,Scarlet-backed Flowerpecker,LC
+1302,1182#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Chalcoparia singalensis,紫颊直嘴太阳鸟,Ruby-cheeked Sunbird,LC
+1303,     ,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Anthreptes malacensis,褐喉食蜜鸟,Brown-throated Sunbird,LC
+1304,1183#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Hypogramma hypogrammicum,蓝枕花蜜鸟,Purple-naped Sunbird,LC
+1305,1185#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Cinnyris asiaticus,紫色花蜜鸟,Purple Sunbird,LC
+1306,1184#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Cinnyris jugularis,黄腹花蜜鸟,Olive-backed Sunbird,LC
+1307,1186#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Aethopyga gouldiae,蓝喉太阳鸟,Mrs Gould's Sunbird,LC
+1308,1187#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Aethopyga nipalensis,绿喉太阳鸟,Green-tailed Sunbird,LC
+1309,1188#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Aethopyga christinae,叉尾太阳鸟,Fork-tailed Sunbird,LC
+1310,1189#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Aethopyga saturata,黑胸太阳鸟,Black-throated Sunbird,LC
+1311,1190#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Aethopyga siparaja,黄腰太阳鸟,Crimson Sunbird,LC
+1312,1191#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Aethopyga ignicauda,火尾太阳鸟,Fire-tailed Sunbird,LC
+1313,1192#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Arachnothera longirostra,长嘴捕蛛鸟,Little Spiderhunter,LC
+1314,1193#,雀形目,PASSERIFORMES,太阳鸟科,Nectariniidae,Arachnothera magna,纹背捕蛛鸟,Streaked Spiderhunter,LC
+1315,1194#,雀形目,PASSERIFORMES,雀科,Passeridae,Passer ammodendri,黑顶麻雀,Saxaul Sparrow,LC
+1316,1195#,雀形目,PASSERIFORMES,雀科,Passeridae,Passer domesticus,家麻雀,House Sparrow,LC
+1317,1196#,雀形目,PASSERIFORMES,雀科,Passeridae,Passer hispaniolensis,黑胸麻雀,Spanish Sparrow,LC
+1318,1197#,雀形目,PASSERIFORMES,雀科,Passeridae,Passer rutilans,山麻雀,Russet Sparrow,LC
+1319,1198#,雀形目,PASSERIFORMES,雀科,Passeridae,Passer montanus,麻雀,Eurasian Tree Sparrow,LC
+1320,1199#,雀形目,PASSERIFORMES,雀科,Passeridae,Petronia petronia,石雀,Rock Sparrow,LC
+1321,1200#,雀形目,PASSERIFORMES,雀科,Passeridae,Montifringilla nivalis,白斑翅雪雀,White-winged Snowfinch,LC
+1322,     ,雀形目,PASSERIFORMES,雀科,Passeridae,Montifringilla henrici,藏雪雀,Henri's Snowfinch
+1323,1201#,雀形目,PASSERIFORMES,雀科,Passeridae,Montifringilla adamsi,褐翅雪雀,Tibetan Snowfinch,LC
+1324,1202#,雀形目,PASSERIFORMES,雀科,Passeridae,Onychostruthus taczanowskii,白腰雪雀,White-rumped Snowfinch,LC
+1325,1203#,雀形目,PASSERIFORMES,雀科,Passeridae,Pyrgilauda davidiana,黑喉雪雀,Père David's Snowfinch,LC
+1326,1204#,雀形目,PASSERIFORMES,雀科,Passeridae,Pyrgilauda ruficollis,棕颈雪雀,Rufous-necked Snowfinch,LC
+1327,1205#,雀形目,PASSERIFORMES,雀科,Passeridae,Pyrgilauda blanfordi,棕背雪雀,Blanford's Snowfinch,LC
+1328,1236#,雀形目,PASSERIFORMES,织雀科,Ploceidae,Ploceus manyar,纹胸织雀,Streaked Weaver,LC
+1329,1237#,雀形目,PASSERIFORMES,织雀科,Ploceidae,Ploceus philippinus,黄胸织雀,Baya Weaver,LC
+1330,1238#,雀形目,PASSERIFORMES,梅花雀科,Estrildidae,Amandava amandava,红梅花雀,Red Avadavat,LC
+1331,     ,雀形目,PASSERIFORMES,梅花雀科,Estrildidae,Erythrura prasina,长尾鹦雀,Pin-tailed Parrotfinch,LC
+1332,1239#,雀形目,PASSERIFORMES,梅花雀科,Estrildidae,Lonchura striata,白腰文鸟,White-rumped Munia,LC
+1333,1240#,雀形目,PASSERIFORMES,梅花雀科,Estrildidae,Lonchura punctulata,斑文鸟,Scaly-breasted Munia,LC
+1334,1241#,雀形目,PASSERIFORMES,梅花雀科,Estrildidae,Lonchura atricapilla,栗腹文鸟,Chestnut Munia,LC
+1335,1226#,雀形目,PASSERIFORMES,岩鹨科,Prunellidae,Prunella collaris,领岩鹨,Alpine Accentor,LC
+1336,1227#,雀形目,PASSERIFORMES,岩鹨科,Prunellidae,Prunella himalayana,高原岩鹨,Altai Accentor,LC
+1337,1228#,雀形目,PASSERIFORMES,岩鹨科,Prunellidae,Prunella rubeculoides,鸲岩鹨,Robin Accentor,LC
+1338,1229#,雀形目,PASSERIFORMES,岩鹨科,Prunellidae,Prunella strophiata,棕胸岩鹨,Rufous-breasted Accentor,LC
+1339,1230#,雀形目,PASSERIFORMES,岩鹨科,Prunellidae,Prunella montanella,棕眉山岩鹨,Siberian Accentor,LC
+1340,1231#,雀形目,PASSERIFORMES,岩鹨科,Prunellidae,Prunella fulvescens,褐岩鹨,Brown Accentor,LC
+1341,1232#,雀形目,PASSERIFORMES,岩鹨科,Prunellidae,Prunella atrogularis,黑喉岩鹨,Black-throated Accentor,LC
+1342,1233#,雀形目,PASSERIFORMES,岩鹨科,Prunellidae,Prunella koslowi,贺兰山岩鹨,Mongolian Accentor,LC
+1343,1234#,雀形目,PASSERIFORMES,岩鹨科,Prunellidae,Prunella immaculata,栗背岩鹨,Maroon-backed Accentor,LC
+1344,1206#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Dendronanthus indicus,山鹡鸰,Forest Wagtail,LC
+1345,     ,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Motacilla flava,西黄鹡鸰,Western Yellow Wagtail,LC
+1346,1211#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Motacilla tschutschensis,黄鹡鸰,Eastern Yellow Wagtail
+1347,1210#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Motacilla citreola,黄头鹡鸰,Citrine Wagtail,LC
+1348,1212#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Motacilla cinerea,灰鹡鸰,Grey Wagtail,LC
+1349,1207#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Motacilla alba,白鹡鸰,White Wagtail,LC
+1350,1209#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Motacilla grandis,日本鹡鸰,Japanese Wagtail,LC
+1351,     ,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Motacilla maderaspatensis,大斑鹡鸰,White-browed Wagtail,LC
+1352,1213#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus richardi,理氏鹨,Richard's Pipit,LC
+1353,1214#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus rufulus,田鹨,Paddyfield Pipit,LC
+1354,1216#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus godlewskii,布氏鹨,Blyth's Pipit,LC
+1355,1215#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus campestris,平原鹨,Tawny Pipit,LC
+1356,1220#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus pratensis,草地鹨,Meadow Pipit,NT
+1357,1217#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus trivialis,林鹨,Tree Pipit,LC
+1358,1218#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus hodgsoni,树鹨,Olive-backed Pipit,LC
+1359,1219#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus gustavi,北鹨,Pechora Pipit,LC
+1360,1222#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus roseatus,粉红胸鹨,Rosy Pipit,LC
+1361,1221#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus cervinus,红喉鹨,Red-throated Pipit,LC
+1362,1224#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus rubescens,黄腹鹨,Buff-bellied Pipit,LC
+1363,1223#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus spinoletta,水鹨,Water Pipit,LC
+1364,1225#,雀形目,PASSERIFORMES,鹡鸰科,Motacillidae,Anthus sylvanus,山鹨,Upland Pipit,LC
+1365,1299#,雀形目,PASSERIFORMES,朱鹀科,Urocynchramidae,Urocynchramus pylzowi,朱鹀,Pink-tailed Rosefinch,LC
+1366,1243#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Fringilla coelebs,苍头燕雀,Common Chaffinch,LC
+1367,1244#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Fringilla montifringilla,燕雀,Brambling,LC
+1368,1295#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Mycerobas affinis,黄颈拟蜡嘴雀,Collared Grosbeak,LC
+1369,1296#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Mycerobas melanozanthos,白点翅拟蜡嘴雀,Spot-winged Grosbeak,LC
+1370,1297#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Mycerobas carnipes,白斑翅拟蜡嘴雀,White-winged Grosbeak,LC
+1371,1292#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Coccothraustes coccothraustes,锡嘴雀,Hawfinch,LC
+1372,1293#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Eophona migratoria,黑尾蜡嘴雀,Chinese Grosbeak,LC
+1373,1294#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Eophona personata,黑头蜡嘴雀,Japanese Grosbeak,LC
+1374,1283#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Pinicola enucleator,松雀,Pine Grosbeak,LC
+1375,1288#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Pyrrhula nipalensis,褐灰雀,Brown Bullfinch,LC
+1376,1289#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Pyrrhula erythrocephala,红头灰雀,Red-headed Bullfinch,LC
+1377,1290#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Pyrrhula erythaca,灰头灰雀,Grey-headed Bullfinch,LC
+1378,1291#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Pyrrhula pyrrhula,红腹灰雀,Eurasian Bullfinch,LC
+1379,1261#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Rhodopechys sanguineus,红翅沙雀,Eurasian Crimson-winged Finch,LC
+1380,1262#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Bucanetes mongolicus,蒙古沙雀,Mongolian Finch,LC
+1381,1265#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Agraphospiza rubescens,赤朱雀,Blanford's Rosefinch,LC
+1382,     ,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Callacanthis burtoni,红眉金翅雀,Spectacled Finch,LC
+1383,1298#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Pyrrhoplectes epauletta,金枕黑雀,Gold-naped Finch,LC
+1384,1266#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Procarduelis nipalensis,暗胸朱雀,Dark-breasted Rosefinch,LC
+1385,1256#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Leucosticte nemoricola,林岭雀,Plain Mountain Finch,LC
+1386,1257#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Leucosticte brandti,高山岭雀,Brandt's Mountain Finch,LC
+1387,1258#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus sillemi,褐头岭雀,Sillem's Mountain Finch,DD
+1388,1259#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Leucosticte arctoa,粉红腹岭雀,Asian Rosy Finch,LC
+1389,1267#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus erythrinus,普通朱雀,Common Rosefinch,LC
+1390,1285#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus sipahi,血雀,Scarlet Finch,LC
+1391,1279#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus rubicilloides,拟大朱雀,Streaked Rosefinch,LC
+1392,1280#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus severtzovi,大朱雀,Spotted Great Rosefinch
+1393,1278#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus rhodochlamys,红腰朱雀,Red-mantled Rosefinch,LC
+1394,1268#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus pulcherrimus,喜山红眉朱雀,Himalayan Beautiful Rosefinch,LC
+1395,     ,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus davidianus,红眉朱雀,Chinese Beautiful Rosefinch
+1396,1269#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus eos,曙红朱雀,Pink-rumped Rosefinch,LC
+1397,1270#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus rodochroa,玫红眉朱雀,Pink-browed Rosefinch,LC
+1398,1272#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus edwardsii,棕朱雀,Dark-rumped Rosefinch,LC
+1399,1276#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus rodopeplus,喜山点翅朱雀,Spot-winged Rosefinch,LC
+1400,     ,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus verreauxii,点翅朱雀,Sharpe's Rosefinch
+1401,1271#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus vinaceus,酒红朱雀,Vinaceous Rosefinch,LC
+1402,     ,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus formosanus,台湾酒红朱雀,Taiwan Rosefinch
+1403,1273#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus stoliczkae,沙色朱雀,Pale Rosefinch
+1404,1282#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus roborowskii,藏雀,Tibetan Rosefinch,LC
+1405,1264#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus sibiricus,长尾雀,Long-tailed Rosefinch,LC
+1406,1274#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus roseus,北朱雀,Pallas's Rosefinch,LC
+1407,1275#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus trifasciatus,斑翅朱雀,Three-banded Rosefinch,LC
+1408,1277#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus thura,喜山白眉朱雀,Himalayan White-browed Rosefinch,LC
+1409,     ,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus dubius,白眉朱雀,Chinese White-browed Rosefinch
+1410,1281#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus puniceus,红胸朱雀,Red-fronted Rosefinch,LC
+1411,1284#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carpodacus subhimachalus,红眉松雀,Crimson-browed Finch,LC
+1412,     ,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Chloris chloris,欧金翅雀,European Greenfinch,LC
+1413,1246#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Chloris sinica,金翅雀,Grey-capped Greenfinch,LC
+1414,1247#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Chloris spinoides,高山金翅雀,Yellow-breasted Greenfinch,LC
+1415,1248#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Chloris ambigua,黑头金翅雀,Black-headed Greenfinch,LC
+1416,1263#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Rhodospiza obsoleta,巨嘴沙雀,Desert Finch,LC
+1417,1254#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Linaria flavirostris,黄嘴朱顶雀,Twite,LC
+1418,1255#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Linaria cannabina,赤胸朱顶雀,Common Linnet,LC
+1419,1253#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Acanthis flammea,白腰朱顶雀,Common Redpoll,LC
+1420,1252#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Acanthis hornemanni,极北朱顶雀,Arctic Redpoll
+1421,1286#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Loxia curvirostra,红交嘴雀,Red Crossbill,LC
+1422,1287#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Loxia leucoptera,白翅交嘴雀,White-winged Crossbill,LC
+1423,1251#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Carduelis carduelis,红额金翅雀,European Goldfinch,LC
+1424,1245#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Serinus pusillus,金额丝雀,Red-fronted Serin,LC
+1425,1250#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Spinus thibetana,藏黄雀,Tibetan Serin,LC
+1426,1249#,雀形目,PASSERIFORMES,燕雀科,Fringillidae,Spinus spinus,黄雀,Eurasian Siskin,LC
+1427,1300#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza lathami,凤头鹀,Crested Bunting,LC
+1428,1301#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza siemsseni,蓝鹀,Slaty Bunting,LC
+1429,1327#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza calandra,黍鹀,Corn Bunting,LC
+1430,1302#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza citrinella,黄鹀,Yellowhammer,LC
+1431,1303#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza leucocephalos,白头鹀,Pine Bunting,LC
+1432,1305#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza cia,灰眉岩鹀,Rock Bunting,LC
+1433,1306#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza godlewskii,戈氏岩鹀,Godlewski's Bunting,LC
+1434,1307#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza cioides,三道眉草鹀,Meadow Bunting,LC
+1435,     ,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza stewarti,白顶鹀,White-capped Bunting,LC
+1436,1308#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza jankowskii,栗斑腹鹀,Jankowski's Bunting,EN
+1437,1309#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza buchanani,灰颈鹀,Grey-necked Bunting,LC
+1438,1310#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza hortulana,圃鹀,Ortolan Bunting,LC
+1439,1311#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza tristrami,白眉鹀,Tristram's Bunting,LC
+1440,1312#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza fucata,栗耳鹀,Chestnut-eared Bunting,LC
+1441,1313#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza pusilla,小鹀,Little Bunting,LC
+1442,1314#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza chrysophrys,黄眉鹀,Yellow-browed Bunting,LC
+1443,1315#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza rustica,田鹀,Rustic Bunting,LC
+1444,1316#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza elegans,黄喉鹀,Yellow-throated Bunting,LC
+1445,1317#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza aureola,黄胸鹀,Yellow-breasted Bunting,EN
+1446,1318#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza rutila,栗鹀,Chestnut Bunting,LC
+1447,1304#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza koslowi,藏鹀,Tibetan Bunting,NT
+1448,1319#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza melanocephala,黑头鹀,Black-headed Bunting,LC
+1449,1320#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza bruniceps,褐头鹀,Red-headed Bunting,LC
+1450,1321#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza sulphurata,硫磺鹀,Yellow Bunting,VU
+1451,1322#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza spodocephala,灰头鹀,Black-faced Bunting,LC
+1452,1323#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza variabilis,灰鹀,Grey Bunting,LC
+1453,1324#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza pallasi,苇鹀,Pallas's Bunting,LC
+1454,1326#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza yessoensis,红颈苇鹀,Ochre-rumped Bunting,NT
+1455,1325#,雀形目,PASSERIFORMES,鹀科,Emberizidae,Emberiza schoeniclus,芦鹀,Reed Bunting,LC
+1456,     ,雀形目,PASSERIFORMES,鹀科,Emberizidae,Zonotrichia leucophrys,白冠带鹀,White-crowned Sparrow,
+1457,1328#,雀形目,PASSERIFORMES,铁爪鹀科,CalcariidaeEmberizidae,Calcarius lapponicus,铁爪鹀,Lapland Longspur,LC
+1458,1329#,雀形目,PASSERIFORMES,铁爪鹀科,CalcariidaeEmberizidae,Plectrophenax nivalis,雪鹀,Snow Bunting,LC
