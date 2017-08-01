@@ -1,5 +1,4 @@
-# HCPwithIUCN
-Habitat Conservation Planning with IUCN API/Data
+# Habitat Conservation Planning with IUCN API/Data
 
 ## 01 Get information from IUCN Redlist API
 Get IUCN Redlist information by Scientific Name
@@ -22,3 +21,4 @@ Converter made by python dictionary
 ## 03 some useful Data
 * List of China National Key Protected Wild Animals1989-1993-2003.csv
 * The CBR Checklist of Birds of China v4.0(2016).csv
+* Chinese_Plant_Names_Index_CPNI.v2.0.xlsx
